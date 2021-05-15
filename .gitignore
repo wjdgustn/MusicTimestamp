@@ -1,0 +1,7 @@
+/.idea/
+/**/bin
+/**/node_modules
+/**/obj
+/**/Release
+*.zip
+*.user

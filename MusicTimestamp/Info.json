@@ -1,0 +1,9 @@
+{
+  "Id": "MusicTimestamp",
+  "DisplayName": "MusicTimestamp",
+  "Author": "HYONSU",
+  "Version": "0.0.2",
+  "AssemblyName": "MusicTimestamp.dll",
+  "EntryMethod": "MusicTimestamp.Main.Load",
+  "Repository": ""
+}
