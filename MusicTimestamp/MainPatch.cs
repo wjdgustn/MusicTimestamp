@@ -23,8 +23,6 @@ namespace MusicTimestamp.MainPatch {
     [HarmonyPatch(typeof(scrController), "PlayerControl_Update")]
     
     internal static class ChangeText {
-        private static int a = 0;
-
         private static void Prefix(scrController __instance) {
             if (!scrController.instance.paused && scrConductor.instance.isGameWorld) {
                 TimeSpan nowt = TimeSpan.FromSeconds(scrConductor.instance.song.time);
