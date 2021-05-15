@@ -25,6 +25,8 @@ namespace MusicTimestamp.MainPatch {
     internal static class ChangeText {
         private static void Prefix(scrController __instance) {
             if (!scrController.instance.paused && scrConductor.instance.isGameWorld) {
+                if (!scrConductor.instance.song.clip) return;
+                
                 TimeSpan nowt = TimeSpan.FromSeconds(scrConductor.instance.song.time);
                 TimeSpan tott = TimeSpan.FromSeconds(scrConductor.instance.song.clip.length);
                 Text.Content = $"음악 시간 : {nowt.Minutes}:{nowt.Seconds.ToString("00")} / {tott.Minutes}:{tott.Seconds.ToString("00")}";
