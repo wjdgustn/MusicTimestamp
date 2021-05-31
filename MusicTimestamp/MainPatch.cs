@@ -1,10 +1,6 @@
 using System;
-using System.CodeDom;
-using System.Configuration;
 using HarmonyLib;
 using UnityEngine;
-using UnityEngine.UI;
-using UnityModManagerNet;
 
 namespace MusicTimestamp.MainPatch {
     public class Text : MonoBehaviour {
@@ -29,10 +25,14 @@ namespace MusicTimestamp.MainPatch {
                 
                 TimeSpan nowt = TimeSpan.FromSeconds(scrConductor.instance.song.time);
                 TimeSpan tott = TimeSpan.FromSeconds(scrConductor.instance.song.clip.length);
-                Text.Content = $"음악 시간 : {nowt.Minutes}:{nowt.Seconds.ToString("00")} / {tott.Minutes}:{tott.Seconds.ToString("00")}";
+                Text.Content = Main.Settings.TextTemplate
+                    .Replace("<NowMinute>", nowt.Minutes.ToString())
+                    .Replace("<NowSecond>", nowt.Seconds.ToString("00"))
+                    .Replace("<TotalMinute>", tott.Minutes.ToString())
+                    .Replace("<TotalSecond>", tott.Seconds.ToString("00"));
             }
             else {
-                Text.Content = "";
+                Text.Content = Main.Settings.NotPlaying;
             }
         }
     }
