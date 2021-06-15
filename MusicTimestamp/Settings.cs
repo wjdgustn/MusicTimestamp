@@ -4,7 +4,7 @@ using UnityModManagerNet;
 namespace MusicTimestamp {
     public class MainSettings : UnityModManager.ModSettings, IDrawable {
         [Draw("위치 X좌표(Position X)")] public int PositionX = 0;
-        [Draw("위치 Y좌표(Position Y)")] public int PositionY = 120;
+        [Draw("위치 Y좌표(Position Y)")] public int PositionY = 170;
         [Draw("글자 크기(Font Size)")] public int TextSize = 50;
         [Draw("")] public string TextTemplate = "음악 시간 : <NowMinute>:<NowSecond> / <TotalMinute>:<TotalSecond>";
         [Draw("")] public string NotPlaying = "플레이 중이 아님";
