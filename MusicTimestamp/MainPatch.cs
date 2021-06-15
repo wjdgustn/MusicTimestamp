@@ -36,4 +36,12 @@ namespace MusicTimestamp.MainPatch {
             }
         }
     }
+    
+    [HarmonyPatch(typeof(scrController), "FailAction")]
+
+    internal static class ChangeTextOnFail {
+        private static void Prefix(scrController __instance) {
+            Text.Content = Main.Settings.NotPlaying;
+        }
+    }
 }
