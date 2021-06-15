@@ -227,11 +227,8 @@
     <Reference Include="UnityEngine.XRModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.XRModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityModManager, Version=0.23.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityModManager\UnityModManager.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityModManager, Version=0.23.2.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityModManager\UnityModManager.dll</HintPath>
+    <Reference Include="UnityModManager, Version=0.23.4.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityModManager\UnityModManager.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
