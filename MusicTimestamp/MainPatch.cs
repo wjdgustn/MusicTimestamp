@@ -7,12 +7,12 @@ namespace MusicTimestamp.MainPatch {
         public static string Content = "";
         
         void OnGUI() {
-            GUIStyle style = GUI.skin.GetStyle("MusicTimestamp_text");
+            GUIStyle style = new GUIStyle();
             style.fontSize = Main.Settings.TextSize;
             style.font = RDString.GetFontDataForLanguage(RDString.language).font;
             style.normal.textColor = Color.white;
     
-            GUI.Label(new Rect(Main.Settings.PositionX + 10, Main.Settings.PositionY - 10, Screen.width, Screen.height), Content, "MusicTimestamp_text");
+            GUI.Label(new Rect(Main.Settings.PositionX + 10, Main.Settings.PositionY - 10, Screen.width, Screen.height), Content, style);
         }
     }
 
