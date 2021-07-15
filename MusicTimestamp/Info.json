@@ -2,7 +2,7 @@
   "Id": "MusicTimestamp",
   "DisplayName": "MusicTimestamp",
   "Author": "HYONSU",
-  "Version": "0.0.9",
+  "Version": "0.0.10",
   "AssemblyName": "MusicTimestamp.dll",
   "EntryMethod": "MusicTimestamp.Main.Load",
   "Repository": ""
