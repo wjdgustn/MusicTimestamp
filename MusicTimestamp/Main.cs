@@ -5,6 +5,10 @@ using UnityEngine;
 using UnityModManagerNet;
 
 namespace MusicTimestamp {
+    #if DEBUG
+    [EnableReloading]
+    #endif
+    
     internal static class Main {
         public static Text text;
         internal static UnityModManager.ModEntry Mod;
@@ -18,13 +22,17 @@ namespace MusicTimestamp {
             Settings = UnityModManager.ModSettings.Load<MainSettings>(modEntry);
             Mod.OnGUI = Settings.OnGUI;
             Mod.OnSaveGUI = Settings.OnSaveGUI;
+            
+            #if DEBUG
+            Mod.OnUnload = Stop;
+            #endif
         }
 
         private static bool OnToggle(UnityModManager.ModEntry modEntry, bool value) {
             IsEnabled = value;
 
             if (value) Start();
-            else Stop();
+            else Stop(modEntry);
 
             return true;
         }
@@ -37,11 +45,16 @@ namespace MusicTimestamp {
             Object.DontDestroyOnLoad(text);
         }
 
-        private static void Stop() {
+        private static bool Stop(UnityModManager.ModEntry modEntry) {
             _harmony.UnpatchAll(Mod.Info.Id);
+            #if RELEASE
             _harmony = null;
+            #endif
+            
             Object.DestroyImmediate(text);
             text = null;
+
+            return true;
         }
     }
 }
