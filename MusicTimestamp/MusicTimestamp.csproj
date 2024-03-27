@@ -22,215 +22,215 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="0Harmony, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityModManager\0Harmony.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityModManager\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
     <Reference Include="RDTools, Version=1.0.7156.29099, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\RDTools.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\RDTools.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="Unity.MemoryProfiler, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\Unity.MemoryProfiler.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\Unity.MemoryProfiler.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\Unity.Timeline.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AccessibilityModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AccessibilityModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AccessibilityModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AIModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AndroidJNIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AndroidJNIModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AndroidJNIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ARModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ARModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ARModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AudioModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.AudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClothModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ClothModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ClothModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClusterInputModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ClusterInputModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ClusterInputModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClusterRendererModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ClusterRendererModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ClusterRendererModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CrashReportingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.CrashReportingModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.CrashReportingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.DirectorModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.DirectorModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.DSPGraphModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.DSPGraphModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GameCenterModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.GameCenterModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.GameCenterModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GridModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.GridModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.GridModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.HotReloadModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.HotReloadModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.HotReloadModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ImageConversionModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.InputModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.InputModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.JSONSerializeModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.LocalizationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.LocalizationModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.LocalizationModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PerformanceReportingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.PerformanceReportingModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.PerformanceReportingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.Physics2DModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.Physics2DModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ProfilerModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ProfilerModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ProfilerModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ScreenCaptureModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ScreenCaptureModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.ScreenCaptureModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SharedInternalsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.SharedInternalsModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.SharedInternalsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.SpriteMaskModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.SpriteMaskModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpriteShapeModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.SpriteShapeModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.SpriteShapeModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StreamingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.StreamingModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.StreamingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SubstanceModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.SubstanceModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.SubstanceModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SubsystemsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.SubsystemsModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.SubsystemsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TerrainModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TerrainModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TerrainModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TerrainPhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TerrainPhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextCoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TextCoreModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TextCoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TilemapModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TilemapModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TilemapModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TLSModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TLSModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.TLSModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UIElementsModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UIElementsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UmbraModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UmbraModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UmbraModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UNETModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UNETModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UNETModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityAnalyticsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityAnalyticsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityConnectModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityConnectModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityTestProtocolModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityTestProtocolModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestAudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityWebRequestModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityWebRequestModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestTextureModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestWWWModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VehiclesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.VehiclesModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.VehiclesModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VFXModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.VFXModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.VFXModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.VideoModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.VideoModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VRModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.VRModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.VRModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.WindModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.WindModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.WindModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XRModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.XRModule.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityModManager, Version=0.23.4.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\Steam\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityModManager\UnityModManager.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\A Dance of Fire and Ice_Data\Managed\UnityModManager\UnityModManager.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -240,1813 +240,7 @@
     <Compile Include="Settings.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="build.js" />
     <Content Include="Info.json" />
-    <Content Include="node_modules\.bin\crc32" />
-    <Content Include="node_modules\.bin\crc32.cmd" />
-    <Content Include="node_modules\.bin\crc32.ps1" />
-    <Content Include="node_modules\.bin\printj" />
-    <Content Include="node_modules\.bin\printj.cmd" />
-    <Content Include="node_modules\.bin\printj.ps1" />
-    <Content Include="node_modules\.bin\rimraf" />
-    <Content Include="node_modules\.bin\rimraf.cmd" />
-    <Content Include="node_modules\.bin\rimraf.ps1" />
-    <Content Include="node_modules\.bin\semver" />
-    <Content Include="node_modules\.bin\semver.cmd" />
-    <Content Include="node_modules\.bin\semver.ps1" />
-    <Content Include="node_modules\.bin\which" />
-    <Content Include="node_modules\.bin\which.cmd" />
-    <Content Include="node_modules\.bin\which.ps1" />
-    <Content Include="node_modules\.package-lock.json" />
-    <Content Include="node_modules\archiver-utils\CHANGELOG.md" />
-    <Content Include="node_modules\archiver-utils\file.js" />
-    <Content Include="node_modules\archiver-utils\index.js" />
-    <Content Include="node_modules\archiver-utils\LICENSE" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\.travis.yml" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\CONTRIBUTING.md" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\doc\wg-meetings\2015-01-30.md" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\duplex-browser.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\duplex.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\GOVERNANCE.md" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\lib\internal\streams\BufferList.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\lib\internal\streams\destroy.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\lib\internal\streams\stream-browser.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\lib\internal\streams\stream.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\lib\_stream_duplex.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\lib\_stream_passthrough.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\lib\_stream_readable.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\lib\_stream_transform.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\lib\_stream_writable.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\LICENSE" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\package.json" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\passthrough.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\readable-browser.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\readable.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\README.md" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\transform.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\writable-browser.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\readable-stream\writable.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\safe-buffer\index.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\safe-buffer\LICENSE" />
-    <Content Include="node_modules\archiver-utils\node_modules\safe-buffer\package.json" />
-    <Content Include="node_modules\archiver-utils\node_modules\safe-buffer\README.md" />
-    <Content Include="node_modules\archiver-utils\node_modules\string_decoder\.travis.yml" />
-    <Content Include="node_modules\archiver-utils\node_modules\string_decoder\lib\string_decoder.js" />
-    <Content Include="node_modules\archiver-utils\node_modules\string_decoder\LICENSE" />
-    <Content Include="node_modules\archiver-utils\node_modules\string_decoder\package.json" />
-    <Content Include="node_modules\archiver-utils\node_modules\string_decoder\README.md" />
-    <Content Include="node_modules\archiver-utils\package.json" />
-    <Content Include="node_modules\archiver-utils\README.md" />
-    <Content Include="node_modules\archiver\CHANGELOG.md" />
-    <Content Include="node_modules\archiver\index.js" />
-    <Content Include="node_modules\archiver\lib\core.js" />
-    <Content Include="node_modules\archiver\lib\error.js" />
-    <Content Include="node_modules\archiver\lib\plugins\json.js" />
-    <Content Include="node_modules\archiver\lib\plugins\tar.js" />
-    <Content Include="node_modules\archiver\lib\plugins\zip.js" />
-    <Content Include="node_modules\archiver\LICENSE" />
-    <Content Include="node_modules\archiver\package.json" />
-    <Content Include="node_modules\archiver\README.md" />
-    <Content Include="node_modules\async\all.js" />
-    <Content Include="node_modules\async\allLimit.js" />
-    <Content Include="node_modules\async\allSeries.js" />
-    <Content Include="node_modules\async\any.js" />
-    <Content Include="node_modules\async\anyLimit.js" />
-    <Content Include="node_modules\async\anySeries.js" />
-    <Content Include="node_modules\async\apply.js" />
-    <Content Include="node_modules\async\applyEach.js" />
-    <Content Include="node_modules\async\applyEachSeries.js" />
-    <Content Include="node_modules\async\asyncify.js" />
-    <Content Include="node_modules\async\auto.js" />
-    <Content Include="node_modules\async\autoInject.js" />
-    <Content Include="node_modules\async\bower.json" />
-    <Content Include="node_modules\async\cargo.js" />
-    <Content Include="node_modules\async\cargoQueue.js" />
-    <Content Include="node_modules\async\CHANGELOG.md" />
-    <Content Include="node_modules\async\compose.js" />
-    <Content Include="node_modules\async\concat.js" />
-    <Content Include="node_modules\async\concatLimit.js" />
-    <Content Include="node_modules\async\concatSeries.js" />
-    <Content Include="node_modules\async\constant.js" />
-    <Content Include="node_modules\async\detect.js" />
-    <Content Include="node_modules\async\detectLimit.js" />
-    <Content Include="node_modules\async\detectSeries.js" />
-    <Content Include="node_modules\async\dir.js" />
-    <Content Include="node_modules\async\dist\async.js" />
-    <Content Include="node_modules\async\dist\async.min.js" />
-    <Content Include="node_modules\async\dist\async.mjs" />
-    <Content Include="node_modules\async\doDuring.js" />
-    <Content Include="node_modules\async\doUntil.js" />
-    <Content Include="node_modules\async\doWhilst.js" />
-    <Content Include="node_modules\async\during.js" />
-    <Content Include="node_modules\async\each.js" />
-    <Content Include="node_modules\async\eachLimit.js" />
-    <Content Include="node_modules\async\eachOf.js" />
-    <Content Include="node_modules\async\eachOfLimit.js" />
-    <Content Include="node_modules\async\eachOfSeries.js" />
-    <Content Include="node_modules\async\eachSeries.js" />
-    <Content Include="node_modules\async\ensureAsync.js" />
-    <Content Include="node_modules\async\every.js" />
-    <Content Include="node_modules\async\everyLimit.js" />
-    <Content Include="node_modules\async\everySeries.js" />
-    <Content Include="node_modules\async\filter.js" />
-    <Content Include="node_modules\async\filterLimit.js" />
-    <Content Include="node_modules\async\filterSeries.js" />
-    <Content Include="node_modules\async\find.js" />
-    <Content Include="node_modules\async\findLimit.js" />
-    <Content Include="node_modules\async\findSeries.js" />
-    <Content Include="node_modules\async\flatMap.js" />
-    <Content Include="node_modules\async\flatMapLimit.js" />
-    <Content Include="node_modules\async\flatMapSeries.js" />
-    <Content Include="node_modules\async\foldl.js" />
-    <Content Include="node_modules\async\foldr.js" />
-    <Content Include="node_modules\async\forEach.js" />
-    <Content Include="node_modules\async\forEachLimit.js" />
-    <Content Include="node_modules\async\forEachOf.js" />
-    <Content Include="node_modules\async\forEachOfLimit.js" />
-    <Content Include="node_modules\async\forEachOfSeries.js" />
-    <Content Include="node_modules\async\forEachSeries.js" />
-    <Content Include="node_modules\async\forever.js" />
-    <Content Include="node_modules\async\groupBy.js" />
-    <Content Include="node_modules\async\groupByLimit.js" />
-    <Content Include="node_modules\async\groupBySeries.js" />
-    <Content Include="node_modules\async\index.js" />
-    <Content Include="node_modules\async\inject.js" />
-    <Content Include="node_modules\async\internal\applyEach.js" />
-    <Content Include="node_modules\async\internal\asyncEachOfLimit.js" />
-    <Content Include="node_modules\async\internal\awaitify.js" />
-    <Content Include="node_modules\async\internal\breakLoop.js" />
-    <Content Include="node_modules\async\internal\consoleFunc.js" />
-    <Content Include="node_modules\async\internal\createTester.js" />
-    <Content Include="node_modules\async\internal\DoublyLinkedList.js" />
-    <Content Include="node_modules\async\internal\eachOfLimit.js" />
-    <Content Include="node_modules\async\internal\filter.js" />
-    <Content Include="node_modules\async\internal\getIterator.js" />
-    <Content Include="node_modules\async\internal\Heap.js" />
-    <Content Include="node_modules\async\internal\initialParams.js" />
-    <Content Include="node_modules\async\internal\isArrayLike.js" />
-    <Content Include="node_modules\async\internal\iterator.js" />
-    <Content Include="node_modules\async\internal\map.js" />
-    <Content Include="node_modules\async\internal\once.js" />
-    <Content Include="node_modules\async\internal\onlyOnce.js" />
-    <Content Include="node_modules\async\internal\parallel.js" />
-    <Content Include="node_modules\async\internal\promiseCallback.js" />
-    <Content Include="node_modules\async\internal\queue.js" />
-    <Content Include="node_modules\async\internal\range.js" />
-    <Content Include="node_modules\async\internal\reject.js" />
-    <Content Include="node_modules\async\internal\setImmediate.js" />
-    <Content Include="node_modules\async\internal\withoutIndex.js" />
-    <Content Include="node_modules\async\internal\wrapAsync.js" />
-    <Content Include="node_modules\async\LICENSE" />
-    <Content Include="node_modules\async\log.js" />
-    <Content Include="node_modules\async\map.js" />
-    <Content Include="node_modules\async\mapLimit.js" />
-    <Content Include="node_modules\async\mapSeries.js" />
-    <Content Include="node_modules\async\mapValues.js" />
-    <Content Include="node_modules\async\mapValuesLimit.js" />
-    <Content Include="node_modules\async\mapValuesSeries.js" />
-    <Content Include="node_modules\async\memoize.js" />
-    <Content Include="node_modules\async\nextTick.js" />
-    <Content Include="node_modules\async\package.json" />
-    <Content Include="node_modules\async\parallel.js" />
-    <Content Include="node_modules\async\parallelLimit.js" />
-    <Content Include="node_modules\async\priorityQueue.js" />
-    <Content Include="node_modules\async\queue.js" />
-    <Content Include="node_modules\async\race.js" />
-    <Content Include="node_modules\async\README.md" />
-    <Content Include="node_modules\async\reduce.js" />
-    <Content Include="node_modules\async\reduceRight.js" />
-    <Content Include="node_modules\async\reflect.js" />
-    <Content Include="node_modules\async\reflectAll.js" />
-    <Content Include="node_modules\async\reject.js" />
-    <Content Include="node_modules\async\rejectLimit.js" />
-    <Content Include="node_modules\async\rejectSeries.js" />
-    <Content Include="node_modules\async\retry.js" />
-    <Content Include="node_modules\async\retryable.js" />
-    <Content Include="node_modules\async\select.js" />
-    <Content Include="node_modules\async\selectLimit.js" />
-    <Content Include="node_modules\async\selectSeries.js" />
-    <Content Include="node_modules\async\seq.js" />
-    <Content Include="node_modules\async\series.js" />
-    <Content Include="node_modules\async\setImmediate.js" />
-    <Content Include="node_modules\async\some.js" />
-    <Content Include="node_modules\async\someLimit.js" />
-    <Content Include="node_modules\async\someSeries.js" />
-    <Content Include="node_modules\async\sortBy.js" />
-    <Content Include="node_modules\async\timeout.js" />
-    <Content Include="node_modules\async\times.js" />
-    <Content Include="node_modules\async\timesLimit.js" />
-    <Content Include="node_modules\async\timesSeries.js" />
-    <Content Include="node_modules\async\transform.js" />
-    <Content Include="node_modules\async\tryEach.js" />
-    <Content Include="node_modules\async\unmemoize.js" />
-    <Content Include="node_modules\async\until.js" />
-    <Content Include="node_modules\async\waterfall.js" />
-    <Content Include="node_modules\async\whilst.js" />
-    <Content Include="node_modules\async\wrapSync.js" />
-    <Content Include="node_modules\balanced-match\.github\FUNDING.yml" />
-    <Content Include="node_modules\balanced-match\index.js" />
-    <Content Include="node_modules\balanced-match\LICENSE.md" />
-    <Content Include="node_modules\balanced-match\package.json" />
-    <Content Include="node_modules\balanced-match\README.md" />
-    <Content Include="node_modules\base64-js\base64js.min.js" />
-    <Content Include="node_modules\base64-js\index.js" />
-    <Content Include="node_modules\base64-js\LICENSE" />
-    <Content Include="node_modules\base64-js\package.json" />
-    <Content Include="node_modules\base64-js\README.md" />
-    <Content Include="node_modules\bl\.travis.yml" />
-    <Content Include="node_modules\bl\bl.js" />
-    <Content Include="node_modules\bl\BufferList.js" />
-    <Content Include="node_modules\bl\LICENSE.md" />
-    <Content Include="node_modules\bl\package.json" />
-    <Content Include="node_modules\bl\README.md" />
-    <Content Include="node_modules\bl\test\convert.js" />
-    <Content Include="node_modules\bl\test\indexOf.js" />
-    <Content Include="node_modules\bl\test\isBufferList.js" />
-    <Content Include="node_modules\bl\test\test.js" />
-    <Content Include="node_modules\brace-expansion\index.js" />
-    <Content Include="node_modules\brace-expansion\LICENSE" />
-    <Content Include="node_modules\brace-expansion\package.json" />
-    <Content Include="node_modules\brace-expansion\README.md" />
-    <Content Include="node_modules\buffer-crc32\index.js" />
-    <Content Include="node_modules\buffer-crc32\LICENSE" />
-    <Content Include="node_modules\buffer-crc32\package.json" />
-    <Content Include="node_modules\buffer-crc32\README.md" />
-    <Content Include="node_modules\buffer\AUTHORS.md" />
-    <Content Include="node_modules\buffer\index.js" />
-    <Content Include="node_modules\buffer\LICENSE" />
-    <Content Include="node_modules\buffer\package.json" />
-    <Content Include="node_modules\buffer\README.md" />
-    <Content Include="node_modules\compress-commons\CHANGELOG.md" />
-    <Content Include="node_modules\compress-commons\lib\archivers\archive-entry.js" />
-    <Content Include="node_modules\compress-commons\lib\archivers\archive-output-stream.js" />
-    <Content Include="node_modules\compress-commons\lib\archivers\zip\constants.js" />
-    <Content Include="node_modules\compress-commons\lib\archivers\zip\general-purpose-bit.js" />
-    <Content Include="node_modules\compress-commons\lib\archivers\zip\unix-stat.js" />
-    <Content Include="node_modules\compress-commons\lib\archivers\zip\util.js" />
-    <Content Include="node_modules\compress-commons\lib\archivers\zip\zip-archive-entry.js" />
-    <Content Include="node_modules\compress-commons\lib\archivers\zip\zip-archive-output-stream.js" />
-    <Content Include="node_modules\compress-commons\lib\compress-commons.js" />
-    <Content Include="node_modules\compress-commons\lib\util\index.js" />
-    <Content Include="node_modules\compress-commons\LICENSE" />
-    <Content Include="node_modules\compress-commons\package.json" />
-    <Content Include="node_modules\compress-commons\README.md" />
-    <Content Include="node_modules\concat-map\.travis.yml" />
-    <Content Include="node_modules\concat-map\example\map.js" />
-    <Content Include="node_modules\concat-map\index.js" />
-    <Content Include="node_modules\concat-map\LICENSE" />
-    <Content Include="node_modules\concat-map\package.json" />
-    <Content Include="node_modules\concat-map\README.markdown" />
-    <Content Include="node_modules\concat-map\test\map.js" />
-    <Content Include="node_modules\core-util-is\float.patch" />
-    <Content Include="node_modules\core-util-is\lib\util.js" />
-    <Content Include="node_modules\core-util-is\LICENSE" />
-    <Content Include="node_modules\core-util-is\package.json" />
-    <Content Include="node_modules\core-util-is\README.md" />
-    <Content Include="node_modules\core-util-is\test.js" />
-    <Content Include="node_modules\crc-32\bin\crc32.njs" />
-    <Content Include="node_modules\crc-32\crc32.js" />
-    <Content Include="node_modules\crc-32\LICENSE" />
-    <Content Include="node_modules\crc-32\package.json" />
-    <Content Include="node_modules\crc-32\README.md" />
-    <Content Include="node_modules\crc-32\types\tsconfig.json" />
-    <Content Include="node_modules\crc-32\types\tslint.json" />
-    <Content Include="node_modules\crc32-stream\CHANGELOG.md" />
-    <Content Include="node_modules\crc32-stream\lib\crc32-stream.js" />
-    <Content Include="node_modules\crc32-stream\lib\deflate-crc32-stream.js" />
-    <Content Include="node_modules\crc32-stream\lib\index.js" />
-    <Content Include="node_modules\crc32-stream\LICENSE" />
-    <Content Include="node_modules\crc32-stream\package.json" />
-    <Content Include="node_modules\crc32-stream\README.md" />
-    <Content Include="node_modules\cross-spawn\CHANGELOG.md" />
-    <Content Include="node_modules\cross-spawn\index.js" />
-    <Content Include="node_modules\cross-spawn\lib\enoent.js" />
-    <Content Include="node_modules\cross-spawn\lib\parse.js" />
-    <Content Include="node_modules\cross-spawn\lib\util\escape.js" />
-    <Content Include="node_modules\cross-spawn\lib\util\readShebang.js" />
-    <Content Include="node_modules\cross-spawn\lib\util\resolveCommand.js" />
-    <Content Include="node_modules\cross-spawn\LICENSE" />
-    <Content Include="node_modules\cross-spawn\node_modules\.bin\semver" />
-    <Content Include="node_modules\cross-spawn\node_modules\.bin\semver.cmd" />
-    <Content Include="node_modules\cross-spawn\node_modules\.bin\semver.ps1" />
-    <Content Include="node_modules\cross-spawn\node_modules\semver\bin\semver" />
-    <Content Include="node_modules\cross-spawn\node_modules\semver\CHANGELOG.md" />
-    <Content Include="node_modules\cross-spawn\node_modules\semver\LICENSE" />
-    <Content Include="node_modules\cross-spawn\node_modules\semver\package.json" />
-    <Content Include="node_modules\cross-spawn\node_modules\semver\range.bnf" />
-    <Content Include="node_modules\cross-spawn\node_modules\semver\README.md" />
-    <Content Include="node_modules\cross-spawn\node_modules\semver\semver.js" />
-    <Content Include="node_modules\cross-spawn\package.json" />
-    <Content Include="node_modules\cross-spawn\README.md" />
-    <Content Include="node_modules\end-of-stream\index.js" />
-    <Content Include="node_modules\end-of-stream\LICENSE" />
-    <Content Include="node_modules\end-of-stream\package.json" />
-    <Content Include="node_modules\end-of-stream\README.md" />
-    <Content Include="node_modules\execa\index.js" />
-    <Content Include="node_modules\execa\lib\errname.js" />
-    <Content Include="node_modules\execa\lib\stdio.js" />
-    <Content Include="node_modules\execa\license" />
-    <Content Include="node_modules\execa\package.json" />
-    <Content Include="node_modules\execa\readme.md" />
-    <Content Include="node_modules\exit-on-epipe\exit-on-epipe.js" />
-    <Content Include="node_modules\exit-on-epipe\LICENSE" />
-    <Content Include="node_modules\exit-on-epipe\package.json" />
-    <Content Include="node_modules\exit-on-epipe\README.md" />
-    <Content Include="node_modules\find-steam-app\lib\index.js" />
-    <Content Include="node_modules\find-steam-app\lib\libraries.js" />
-    <Content Include="node_modules\find-steam-app\lib\manifest.js" />
-    <Content Include="node_modules\find-steam-app\lib\steam.js" />
-    <Content Include="node_modules\find-steam-app\LICENSE" />
-    <Content Include="node_modules\find-steam-app\package.json" />
-    <Content Include="node_modules\find-steam-app\README.md" />
-    <Content Include="node_modules\fs-constants\browser.js" />
-    <Content Include="node_modules\fs-constants\index.js" />
-    <Content Include="node_modules\fs-constants\LICENSE" />
-    <Content Include="node_modules\fs-constants\package.json" />
-    <Content Include="node_modules\fs-constants\README.md" />
-    <Content Include="node_modules\fs-extra\CHANGELOG.md" />
-    <Content Include="node_modules\fs-extra\lib\copy-sync\copy-sync.js" />
-    <Content Include="node_modules\fs-extra\lib\copy-sync\index.js" />
-    <Content Include="node_modules\fs-extra\lib\copy\copy.js" />
-    <Content Include="node_modules\fs-extra\lib\copy\index.js" />
-    <Content Include="node_modules\fs-extra\lib\empty\index.js" />
-    <Content Include="node_modules\fs-extra\lib\ensure\file.js" />
-    <Content Include="node_modules\fs-extra\lib\ensure\index.js" />
-    <Content Include="node_modules\fs-extra\lib\ensure\link.js" />
-    <Content Include="node_modules\fs-extra\lib\ensure\symlink-paths.js" />
-    <Content Include="node_modules\fs-extra\lib\ensure\symlink-type.js" />
-    <Content Include="node_modules\fs-extra\lib\ensure\symlink.js" />
-    <Content Include="node_modules\fs-extra\lib\fs\index.js" />
-    <Content Include="node_modules\fs-extra\lib\index.js" />
-    <Content Include="node_modules\fs-extra\lib\json\index.js" />
-    <Content Include="node_modules\fs-extra\lib\json\jsonfile.js" />
-    <Content Include="node_modules\fs-extra\lib\json\output-json-sync.js" />
-    <Content Include="node_modules\fs-extra\lib\json\output-json.js" />
-    <Content Include="node_modules\fs-extra\lib\mkdirs\index.js" />
-    <Content Include="node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js" />
-    <Content Include="node_modules\fs-extra\lib\mkdirs\mkdirs.js" />
-    <Content Include="node_modules\fs-extra\lib\mkdirs\win32.js" />
-    <Content Include="node_modules\fs-extra\lib\move-sync\index.js" />
-    <Content Include="node_modules\fs-extra\lib\move\index.js" />
-    <Content Include="node_modules\fs-extra\lib\output\index.js" />
-    <Content Include="node_modules\fs-extra\lib\path-exists\index.js" />
-    <Content Include="node_modules\fs-extra\lib\remove\index.js" />
-    <Content Include="node_modules\fs-extra\lib\remove\rimraf.js" />
-    <Content Include="node_modules\fs-extra\lib\util\buffer.js" />
-    <Content Include="node_modules\fs-extra\lib\util\utimes.js" />
-    <Content Include="node_modules\fs-extra\LICENSE" />
-    <Content Include="node_modules\fs-extra\package.json" />
-    <Content Include="node_modules\fs-extra\README.md" />
-    <Content Include="node_modules\fs.realpath\index.js" />
-    <Content Include="node_modules\fs.realpath\LICENSE" />
-    <Content Include="node_modules\fs.realpath\old.js" />
-    <Content Include="node_modules\fs.realpath\package.json" />
-    <Content Include="node_modules\fs.realpath\README.md" />
-    <Content Include="node_modules\get-stream\buffer-stream.js" />
-    <Content Include="node_modules\get-stream\index.js" />
-    <Content Include="node_modules\get-stream\license" />
-    <Content Include="node_modules\get-stream\package.json" />
-    <Content Include="node_modules\get-stream\readme.md" />
-    <Content Include="node_modules\glob\changelog.md" />
-    <Content Include="node_modules\glob\common.js" />
-    <Content Include="node_modules\glob\glob.js" />
-    <Content Include="node_modules\glob\LICENSE" />
-    <Content Include="node_modules\glob\package.json" />
-    <Content Include="node_modules\glob\README.md" />
-    <Content Include="node_modules\glob\sync.js" />
-    <Content Include="node_modules\graceful-fs\clone.js" />
-    <Content Include="node_modules\graceful-fs\graceful-fs.js" />
-    <Content Include="node_modules\graceful-fs\legacy-streams.js" />
-    <Content Include="node_modules\graceful-fs\LICENSE" />
-    <Content Include="node_modules\graceful-fs\package.json" />
-    <Content Include="node_modules\graceful-fs\polyfills.js" />
-    <Content Include="node_modules\graceful-fs\README.md" />
-    <Content Include="node_modules\ieee754\index.js" />
-    <Content Include="node_modules\ieee754\LICENSE" />
-    <Content Include="node_modules\ieee754\package.json" />
-    <Content Include="node_modules\ieee754\README.md" />
-    <Content Include="node_modules\inflight\inflight.js" />
-    <Content Include="node_modules\inflight\LICENSE" />
-    <Content Include="node_modules\inflight\package.json" />
-    <Content Include="node_modules\inflight\README.md" />
-    <Content Include="node_modules\inherits\inherits.js" />
-    <Content Include="node_modules\inherits\inherits_browser.js" />
-    <Content Include="node_modules\inherits\LICENSE" />
-    <Content Include="node_modules\inherits\package.json" />
-    <Content Include="node_modules\inherits\README.md" />
-    <Content Include="node_modules\is-stream\index.js" />
-    <Content Include="node_modules\is-stream\license" />
-    <Content Include="node_modules\is-stream\package.json" />
-    <Content Include="node_modules\is-stream\readme.md" />
-    <Content Include="node_modules\isarray\.npmignore" />
-    <Content Include="node_modules\isarray\.travis.yml" />
-    <Content Include="node_modules\isarray\component.json" />
-    <Content Include="node_modules\isarray\index.js" />
-    <Content Include="node_modules\isarray\Makefile" />
-    <Content Include="node_modules\isarray\package.json" />
-    <Content Include="node_modules\isarray\README.md" />
-    <Content Include="node_modules\isarray\test.js" />
-    <Content Include="node_modules\isexe\.npmignore" />
-    <Content Include="node_modules\isexe\index.js" />
-    <Content Include="node_modules\isexe\LICENSE" />
-    <Content Include="node_modules\isexe\mode.js" />
-    <Content Include="node_modules\isexe\package.json" />
-    <Content Include="node_modules\isexe\README.md" />
-    <Content Include="node_modules\isexe\test\basic.js" />
-    <Content Include="node_modules\isexe\windows.js" />
-    <Content Include="node_modules\jsonfile\CHANGELOG.md" />
-    <Content Include="node_modules\jsonfile\index.js" />
-    <Content Include="node_modules\jsonfile\LICENSE" />
-    <Content Include="node_modules\jsonfile\package.json" />
-    <Content Include="node_modules\jsonfile\README.md" />
-    <Content Include="node_modules\lazystream\.npmignore" />
-    <Content Include="node_modules\lazystream\.travis.yml" />
-    <Content Include="node_modules\lazystream\lib\lazystream.js" />
-    <Content Include="node_modules\lazystream\LICENSE-MIT" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\.travis.yml" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\CONTRIBUTING.md" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\doc\wg-meetings\2015-01-30.md" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\duplex-browser.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\duplex.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\GOVERNANCE.md" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\lib\internal\streams\BufferList.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\lib\internal\streams\destroy.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\lib\internal\streams\stream-browser.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\lib\internal\streams\stream.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\lib\_stream_duplex.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\lib\_stream_passthrough.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\lib\_stream_readable.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\lib\_stream_transform.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\lib\_stream_writable.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\LICENSE" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\package.json" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\passthrough.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\readable-browser.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\readable.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\README.md" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\transform.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\writable-browser.js" />
-    <Content Include="node_modules\lazystream\node_modules\readable-stream\writable.js" />
-    <Content Include="node_modules\lazystream\node_modules\safe-buffer\index.js" />
-    <Content Include="node_modules\lazystream\node_modules\safe-buffer\LICENSE" />
-    <Content Include="node_modules\lazystream\node_modules\safe-buffer\package.json" />
-    <Content Include="node_modules\lazystream\node_modules\safe-buffer\README.md" />
-    <Content Include="node_modules\lazystream\node_modules\string_decoder\.travis.yml" />
-    <Content Include="node_modules\lazystream\node_modules\string_decoder\lib\string_decoder.js" />
-    <Content Include="node_modules\lazystream\node_modules\string_decoder\LICENSE" />
-    <Content Include="node_modules\lazystream\node_modules\string_decoder\package.json" />
-    <Content Include="node_modules\lazystream\node_modules\string_decoder\README.md" />
-    <Content Include="node_modules\lazystream\package.json" />
-    <Content Include="node_modules\lazystream\README.md" />
-    <Content Include="node_modules\lazystream\secret" />
-    <Content Include="node_modules\lazystream\test\data.md" />
-    <Content Include="node_modules\lazystream\test\fs_test.js" />
-    <Content Include="node_modules\lazystream\test\helper.js" />
-    <Content Include="node_modules\lazystream\test\pipe_test.js" />
-    <Content Include="node_modules\lazystream\test\readable_test.js" />
-    <Content Include="node_modules\lazystream\test\writable_test.js" />
-    <Content Include="node_modules\lodash.defaults\index.js" />
-    <Content Include="node_modules\lodash.defaults\LICENSE" />
-    <Content Include="node_modules\lodash.defaults\package.json" />
-    <Content Include="node_modules\lodash.defaults\README.md" />
-    <Content Include="node_modules\lodash.difference\index.js" />
-    <Content Include="node_modules\lodash.difference\LICENSE" />
-    <Content Include="node_modules\lodash.difference\package.json" />
-    <Content Include="node_modules\lodash.difference\README.md" />
-    <Content Include="node_modules\lodash.flatten\index.js" />
-    <Content Include="node_modules\lodash.flatten\LICENSE" />
-    <Content Include="node_modules\lodash.flatten\package.json" />
-    <Content Include="node_modules\lodash.flatten\README.md" />
-    <Content Include="node_modules\lodash.isplainobject\index.js" />
-    <Content Include="node_modules\lodash.isplainobject\LICENSE" />
-    <Content Include="node_modules\lodash.isplainobject\package.json" />
-    <Content Include="node_modules\lodash.isplainobject\README.md" />
-    <Content Include="node_modules\lodash.union\index.js" />
-    <Content Include="node_modules\lodash.union\LICENSE" />
-    <Content Include="node_modules\lodash.union\package.json" />
-    <Content Include="node_modules\lodash.union\README.md" />
-    <Content Include="node_modules\lodash\add.js" />
-    <Content Include="node_modules\lodash\after.js" />
-    <Content Include="node_modules\lodash\array.js" />
-    <Content Include="node_modules\lodash\ary.js" />
-    <Content Include="node_modules\lodash\assign.js" />
-    <Content Include="node_modules\lodash\assignIn.js" />
-    <Content Include="node_modules\lodash\assignInWith.js" />
-    <Content Include="node_modules\lodash\assignWith.js" />
-    <Content Include="node_modules\lodash\at.js" />
-    <Content Include="node_modules\lodash\attempt.js" />
-    <Content Include="node_modules\lodash\before.js" />
-    <Content Include="node_modules\lodash\bind.js" />
-    <Content Include="node_modules\lodash\bindAll.js" />
-    <Content Include="node_modules\lodash\bindKey.js" />
-    <Content Include="node_modules\lodash\camelCase.js" />
-    <Content Include="node_modules\lodash\capitalize.js" />
-    <Content Include="node_modules\lodash\castArray.js" />
-    <Content Include="node_modules\lodash\ceil.js" />
-    <Content Include="node_modules\lodash\chain.js" />
-    <Content Include="node_modules\lodash\chunk.js" />
-    <Content Include="node_modules\lodash\clamp.js" />
-    <Content Include="node_modules\lodash\clone.js" />
-    <Content Include="node_modules\lodash\cloneDeep.js" />
-    <Content Include="node_modules\lodash\cloneDeepWith.js" />
-    <Content Include="node_modules\lodash\cloneWith.js" />
-    <Content Include="node_modules\lodash\collection.js" />
-    <Content Include="node_modules\lodash\commit.js" />
-    <Content Include="node_modules\lodash\compact.js" />
-    <Content Include="node_modules\lodash\concat.js" />
-    <Content Include="node_modules\lodash\cond.js" />
-    <Content Include="node_modules\lodash\conforms.js" />
-    <Content Include="node_modules\lodash\conformsTo.js" />
-    <Content Include="node_modules\lodash\constant.js" />
-    <Content Include="node_modules\lodash\core.js" />
-    <Content Include="node_modules\lodash\core.min.js" />
-    <Content Include="node_modules\lodash\countBy.js" />
-    <Content Include="node_modules\lodash\create.js" />
-    <Content Include="node_modules\lodash\curry.js" />
-    <Content Include="node_modules\lodash\curryRight.js" />
-    <Content Include="node_modules\lodash\date.js" />
-    <Content Include="node_modules\lodash\debounce.js" />
-    <Content Include="node_modules\lodash\deburr.js" />
-    <Content Include="node_modules\lodash\defaults.js" />
-    <Content Include="node_modules\lodash\defaultsDeep.js" />
-    <Content Include="node_modules\lodash\defaultTo.js" />
-    <Content Include="node_modules\lodash\defer.js" />
-    <Content Include="node_modules\lodash\delay.js" />
-    <Content Include="node_modules\lodash\difference.js" />
-    <Content Include="node_modules\lodash\differenceBy.js" />
-    <Content Include="node_modules\lodash\differenceWith.js" />
-    <Content Include="node_modules\lodash\divide.js" />
-    <Content Include="node_modules\lodash\drop.js" />
-    <Content Include="node_modules\lodash\dropRight.js" />
-    <Content Include="node_modules\lodash\dropRightWhile.js" />
-    <Content Include="node_modules\lodash\dropWhile.js" />
-    <Content Include="node_modules\lodash\each.js" />
-    <Content Include="node_modules\lodash\eachRight.js" />
-    <Content Include="node_modules\lodash\endsWith.js" />
-    <Content Include="node_modules\lodash\entries.js" />
-    <Content Include="node_modules\lodash\entriesIn.js" />
-    <Content Include="node_modules\lodash\eq.js" />
-    <Content Include="node_modules\lodash\escape.js" />
-    <Content Include="node_modules\lodash\escapeRegExp.js" />
-    <Content Include="node_modules\lodash\every.js" />
-    <Content Include="node_modules\lodash\extend.js" />
-    <Content Include="node_modules\lodash\extendWith.js" />
-    <Content Include="node_modules\lodash\fill.js" />
-    <Content Include="node_modules\lodash\filter.js" />
-    <Content Include="node_modules\lodash\find.js" />
-    <Content Include="node_modules\lodash\findIndex.js" />
-    <Content Include="node_modules\lodash\findKey.js" />
-    <Content Include="node_modules\lodash\findLast.js" />
-    <Content Include="node_modules\lodash\findLastIndex.js" />
-    <Content Include="node_modules\lodash\findLastKey.js" />
-    <Content Include="node_modules\lodash\first.js" />
-    <Content Include="node_modules\lodash\flake.lock" />
-    <Content Include="node_modules\lodash\flake.nix" />
-    <Content Include="node_modules\lodash\flatMap.js" />
-    <Content Include="node_modules\lodash\flatMapDeep.js" />
-    <Content Include="node_modules\lodash\flatMapDepth.js" />
-    <Content Include="node_modules\lodash\flatten.js" />
-    <Content Include="node_modules\lodash\flattenDeep.js" />
-    <Content Include="node_modules\lodash\flattenDepth.js" />
-    <Content Include="node_modules\lodash\flip.js" />
-    <Content Include="node_modules\lodash\floor.js" />
-    <Content Include="node_modules\lodash\flow.js" />
-    <Content Include="node_modules\lodash\flowRight.js" />
-    <Content Include="node_modules\lodash\forEach.js" />
-    <Content Include="node_modules\lodash\forEachRight.js" />
-    <Content Include="node_modules\lodash\forIn.js" />
-    <Content Include="node_modules\lodash\forInRight.js" />
-    <Content Include="node_modules\lodash\forOwn.js" />
-    <Content Include="node_modules\lodash\forOwnRight.js" />
-    <Content Include="node_modules\lodash\fp.js" />
-    <Content Include="node_modules\lodash\fp\add.js" />
-    <Content Include="node_modules\lodash\fp\after.js" />
-    <Content Include="node_modules\lodash\fp\all.js" />
-    <Content Include="node_modules\lodash\fp\allPass.js" />
-    <Content Include="node_modules\lodash\fp\always.js" />
-    <Content Include="node_modules\lodash\fp\any.js" />
-    <Content Include="node_modules\lodash\fp\anyPass.js" />
-    <Content Include="node_modules\lodash\fp\apply.js" />
-    <Content Include="node_modules\lodash\fp\array.js" />
-    <Content Include="node_modules\lodash\fp\ary.js" />
-    <Content Include="node_modules\lodash\fp\assign.js" />
-    <Content Include="node_modules\lodash\fp\assignAll.js" />
-    <Content Include="node_modules\lodash\fp\assignAllWith.js" />
-    <Content Include="node_modules\lodash\fp\assignIn.js" />
-    <Content Include="node_modules\lodash\fp\assignInAll.js" />
-    <Content Include="node_modules\lodash\fp\assignInAllWith.js" />
-    <Content Include="node_modules\lodash\fp\assignInWith.js" />
-    <Content Include="node_modules\lodash\fp\assignWith.js" />
-    <Content Include="node_modules\lodash\fp\assoc.js" />
-    <Content Include="node_modules\lodash\fp\assocPath.js" />
-    <Content Include="node_modules\lodash\fp\at.js" />
-    <Content Include="node_modules\lodash\fp\attempt.js" />
-    <Content Include="node_modules\lodash\fp\before.js" />
-    <Content Include="node_modules\lodash\fp\bind.js" />
-    <Content Include="node_modules\lodash\fp\bindAll.js" />
-    <Content Include="node_modules\lodash\fp\bindKey.js" />
-    <Content Include="node_modules\lodash\fp\camelCase.js" />
-    <Content Include="node_modules\lodash\fp\capitalize.js" />
-    <Content Include="node_modules\lodash\fp\castArray.js" />
-    <Content Include="node_modules\lodash\fp\ceil.js" />
-    <Content Include="node_modules\lodash\fp\chain.js" />
-    <Content Include="node_modules\lodash\fp\chunk.js" />
-    <Content Include="node_modules\lodash\fp\clamp.js" />
-    <Content Include="node_modules\lodash\fp\clone.js" />
-    <Content Include="node_modules\lodash\fp\cloneDeep.js" />
-    <Content Include="node_modules\lodash\fp\cloneDeepWith.js" />
-    <Content Include="node_modules\lodash\fp\cloneWith.js" />
-    <Content Include="node_modules\lodash\fp\collection.js" />
-    <Content Include="node_modules\lodash\fp\commit.js" />
-    <Content Include="node_modules\lodash\fp\compact.js" />
-    <Content Include="node_modules\lodash\fp\complement.js" />
-    <Content Include="node_modules\lodash\fp\compose.js" />
-    <Content Include="node_modules\lodash\fp\concat.js" />
-    <Content Include="node_modules\lodash\fp\cond.js" />
-    <Content Include="node_modules\lodash\fp\conforms.js" />
-    <Content Include="node_modules\lodash\fp\conformsTo.js" />
-    <Content Include="node_modules\lodash\fp\constant.js" />
-    <Content Include="node_modules\lodash\fp\contains.js" />
-    <Content Include="node_modules\lodash\fp\convert.js" />
-    <Content Include="node_modules\lodash\fp\countBy.js" />
-    <Content Include="node_modules\lodash\fp\create.js" />
-    <Content Include="node_modules\lodash\fp\curry.js" />
-    <Content Include="node_modules\lodash\fp\curryN.js" />
-    <Content Include="node_modules\lodash\fp\curryRight.js" />
-    <Content Include="node_modules\lodash\fp\curryRightN.js" />
-    <Content Include="node_modules\lodash\fp\date.js" />
-    <Content Include="node_modules\lodash\fp\debounce.js" />
-    <Content Include="node_modules\lodash\fp\deburr.js" />
-    <Content Include="node_modules\lodash\fp\defaults.js" />
-    <Content Include="node_modules\lodash\fp\defaultsAll.js" />
-    <Content Include="node_modules\lodash\fp\defaultsDeep.js" />
-    <Content Include="node_modules\lodash\fp\defaultsDeepAll.js" />
-    <Content Include="node_modules\lodash\fp\defaultTo.js" />
-    <Content Include="node_modules\lodash\fp\defer.js" />
-    <Content Include="node_modules\lodash\fp\delay.js" />
-    <Content Include="node_modules\lodash\fp\difference.js" />
-    <Content Include="node_modules\lodash\fp\differenceBy.js" />
-    <Content Include="node_modules\lodash\fp\differenceWith.js" />
-    <Content Include="node_modules\lodash\fp\dissoc.js" />
-    <Content Include="node_modules\lodash\fp\dissocPath.js" />
-    <Content Include="node_modules\lodash\fp\divide.js" />
-    <Content Include="node_modules\lodash\fp\drop.js" />
-    <Content Include="node_modules\lodash\fp\dropLast.js" />
-    <Content Include="node_modules\lodash\fp\dropLastWhile.js" />
-    <Content Include="node_modules\lodash\fp\dropRight.js" />
-    <Content Include="node_modules\lodash\fp\dropRightWhile.js" />
-    <Content Include="node_modules\lodash\fp\dropWhile.js" />
-    <Content Include="node_modules\lodash\fp\each.js" />
-    <Content Include="node_modules\lodash\fp\eachRight.js" />
-    <Content Include="node_modules\lodash\fp\endsWith.js" />
-    <Content Include="node_modules\lodash\fp\entries.js" />
-    <Content Include="node_modules\lodash\fp\entriesIn.js" />
-    <Content Include="node_modules\lodash\fp\eq.js" />
-    <Content Include="node_modules\lodash\fp\equals.js" />
-    <Content Include="node_modules\lodash\fp\escape.js" />
-    <Content Include="node_modules\lodash\fp\escapeRegExp.js" />
-    <Content Include="node_modules\lodash\fp\every.js" />
-    <Content Include="node_modules\lodash\fp\extend.js" />
-    <Content Include="node_modules\lodash\fp\extendAll.js" />
-    <Content Include="node_modules\lodash\fp\extendAllWith.js" />
-    <Content Include="node_modules\lodash\fp\extendWith.js" />
-    <Content Include="node_modules\lodash\fp\F.js" />
-    <Content Include="node_modules\lodash\fp\fill.js" />
-    <Content Include="node_modules\lodash\fp\filter.js" />
-    <Content Include="node_modules\lodash\fp\find.js" />
-    <Content Include="node_modules\lodash\fp\findFrom.js" />
-    <Content Include="node_modules\lodash\fp\findIndex.js" />
-    <Content Include="node_modules\lodash\fp\findIndexFrom.js" />
-    <Content Include="node_modules\lodash\fp\findKey.js" />
-    <Content Include="node_modules\lodash\fp\findLast.js" />
-    <Content Include="node_modules\lodash\fp\findLastFrom.js" />
-    <Content Include="node_modules\lodash\fp\findLastIndex.js" />
-    <Content Include="node_modules\lodash\fp\findLastIndexFrom.js" />
-    <Content Include="node_modules\lodash\fp\findLastKey.js" />
-    <Content Include="node_modules\lodash\fp\first.js" />
-    <Content Include="node_modules\lodash\fp\flatMap.js" />
-    <Content Include="node_modules\lodash\fp\flatMapDeep.js" />
-    <Content Include="node_modules\lodash\fp\flatMapDepth.js" />
-    <Content Include="node_modules\lodash\fp\flatten.js" />
-    <Content Include="node_modules\lodash\fp\flattenDeep.js" />
-    <Content Include="node_modules\lodash\fp\flattenDepth.js" />
-    <Content Include="node_modules\lodash\fp\flip.js" />
-    <Content Include="node_modules\lodash\fp\floor.js" />
-    <Content Include="node_modules\lodash\fp\flow.js" />
-    <Content Include="node_modules\lodash\fp\flowRight.js" />
-    <Content Include="node_modules\lodash\fp\forEach.js" />
-    <Content Include="node_modules\lodash\fp\forEachRight.js" />
-    <Content Include="node_modules\lodash\fp\forIn.js" />
-    <Content Include="node_modules\lodash\fp\forInRight.js" />
-    <Content Include="node_modules\lodash\fp\forOwn.js" />
-    <Content Include="node_modules\lodash\fp\forOwnRight.js" />
-    <Content Include="node_modules\lodash\fp\fromPairs.js" />
-    <Content Include="node_modules\lodash\fp\function.js" />
-    <Content Include="node_modules\lodash\fp\functions.js" />
-    <Content Include="node_modules\lodash\fp\functionsIn.js" />
-    <Content Include="node_modules\lodash\fp\get.js" />
-    <Content Include="node_modules\lodash\fp\getOr.js" />
-    <Content Include="node_modules\lodash\fp\groupBy.js" />
-    <Content Include="node_modules\lodash\fp\gt.js" />
-    <Content Include="node_modules\lodash\fp\gte.js" />
-    <Content Include="node_modules\lodash\fp\has.js" />
-    <Content Include="node_modules\lodash\fp\hasIn.js" />
-    <Content Include="node_modules\lodash\fp\head.js" />
-    <Content Include="node_modules\lodash\fp\identical.js" />
-    <Content Include="node_modules\lodash\fp\identity.js" />
-    <Content Include="node_modules\lodash\fp\includes.js" />
-    <Content Include="node_modules\lodash\fp\includesFrom.js" />
-    <Content Include="node_modules\lodash\fp\indexBy.js" />
-    <Content Include="node_modules\lodash\fp\indexOf.js" />
-    <Content Include="node_modules\lodash\fp\indexOfFrom.js" />
-    <Content Include="node_modules\lodash\fp\init.js" />
-    <Content Include="node_modules\lodash\fp\initial.js" />
-    <Content Include="node_modules\lodash\fp\inRange.js" />
-    <Content Include="node_modules\lodash\fp\intersection.js" />
-    <Content Include="node_modules\lodash\fp\intersectionBy.js" />
-    <Content Include="node_modules\lodash\fp\intersectionWith.js" />
-    <Content Include="node_modules\lodash\fp\invert.js" />
-    <Content Include="node_modules\lodash\fp\invertBy.js" />
-    <Content Include="node_modules\lodash\fp\invertObj.js" />
-    <Content Include="node_modules\lodash\fp\invoke.js" />
-    <Content Include="node_modules\lodash\fp\invokeArgs.js" />
-    <Content Include="node_modules\lodash\fp\invokeArgsMap.js" />
-    <Content Include="node_modules\lodash\fp\invokeMap.js" />
-    <Content Include="node_modules\lodash\fp\isArguments.js" />
-    <Content Include="node_modules\lodash\fp\isArray.js" />
-    <Content Include="node_modules\lodash\fp\isArrayBuffer.js" />
-    <Content Include="node_modules\lodash\fp\isArrayLike.js" />
-    <Content Include="node_modules\lodash\fp\isArrayLikeObject.js" />
-    <Content Include="node_modules\lodash\fp\isBoolean.js" />
-    <Content Include="node_modules\lodash\fp\isBuffer.js" />
-    <Content Include="node_modules\lodash\fp\isDate.js" />
-    <Content Include="node_modules\lodash\fp\isElement.js" />
-    <Content Include="node_modules\lodash\fp\isEmpty.js" />
-    <Content Include="node_modules\lodash\fp\isEqual.js" />
-    <Content Include="node_modules\lodash\fp\isEqualWith.js" />
-    <Content Include="node_modules\lodash\fp\isError.js" />
-    <Content Include="node_modules\lodash\fp\isFinite.js" />
-    <Content Include="node_modules\lodash\fp\isFunction.js" />
-    <Content Include="node_modules\lodash\fp\isInteger.js" />
-    <Content Include="node_modules\lodash\fp\isLength.js" />
-    <Content Include="node_modules\lodash\fp\isMap.js" />
-    <Content Include="node_modules\lodash\fp\isMatch.js" />
-    <Content Include="node_modules\lodash\fp\isMatchWith.js" />
-    <Content Include="node_modules\lodash\fp\isNaN.js" />
-    <Content Include="node_modules\lodash\fp\isNative.js" />
-    <Content Include="node_modules\lodash\fp\isNil.js" />
-    <Content Include="node_modules\lodash\fp\isNull.js" />
-    <Content Include="node_modules\lodash\fp\isNumber.js" />
-    <Content Include="node_modules\lodash\fp\isObject.js" />
-    <Content Include="node_modules\lodash\fp\isObjectLike.js" />
-    <Content Include="node_modules\lodash\fp\isPlainObject.js" />
-    <Content Include="node_modules\lodash\fp\isRegExp.js" />
-    <Content Include="node_modules\lodash\fp\isSafeInteger.js" />
-    <Content Include="node_modules\lodash\fp\isSet.js" />
-    <Content Include="node_modules\lodash\fp\isString.js" />
-    <Content Include="node_modules\lodash\fp\isSymbol.js" />
-    <Content Include="node_modules\lodash\fp\isTypedArray.js" />
-    <Content Include="node_modules\lodash\fp\isUndefined.js" />
-    <Content Include="node_modules\lodash\fp\isWeakMap.js" />
-    <Content Include="node_modules\lodash\fp\isWeakSet.js" />
-    <Content Include="node_modules\lodash\fp\iteratee.js" />
-    <Content Include="node_modules\lodash\fp\join.js" />
-    <Content Include="node_modules\lodash\fp\juxt.js" />
-    <Content Include="node_modules\lodash\fp\kebabCase.js" />
-    <Content Include="node_modules\lodash\fp\keyBy.js" />
-    <Content Include="node_modules\lodash\fp\keys.js" />
-    <Content Include="node_modules\lodash\fp\keysIn.js" />
-    <Content Include="node_modules\lodash\fp\lang.js" />
-    <Content Include="node_modules\lodash\fp\last.js" />
-    <Content Include="node_modules\lodash\fp\lastIndexOf.js" />
-    <Content Include="node_modules\lodash\fp\lastIndexOfFrom.js" />
-    <Content Include="node_modules\lodash\fp\lowerCase.js" />
-    <Content Include="node_modules\lodash\fp\lowerFirst.js" />
-    <Content Include="node_modules\lodash\fp\lt.js" />
-    <Content Include="node_modules\lodash\fp\lte.js" />
-    <Content Include="node_modules\lodash\fp\map.js" />
-    <Content Include="node_modules\lodash\fp\mapKeys.js" />
-    <Content Include="node_modules\lodash\fp\mapValues.js" />
-    <Content Include="node_modules\lodash\fp\matches.js" />
-    <Content Include="node_modules\lodash\fp\matchesProperty.js" />
-    <Content Include="node_modules\lodash\fp\math.js" />
-    <Content Include="node_modules\lodash\fp\max.js" />
-    <Content Include="node_modules\lodash\fp\maxBy.js" />
-    <Content Include="node_modules\lodash\fp\mean.js" />
-    <Content Include="node_modules\lodash\fp\meanBy.js" />
-    <Content Include="node_modules\lodash\fp\memoize.js" />
-    <Content Include="node_modules\lodash\fp\merge.js" />
-    <Content Include="node_modules\lodash\fp\mergeAll.js" />
-    <Content Include="node_modules\lodash\fp\mergeAllWith.js" />
-    <Content Include="node_modules\lodash\fp\mergeWith.js" />
-    <Content Include="node_modules\lodash\fp\method.js" />
-    <Content Include="node_modules\lodash\fp\methodOf.js" />
-    <Content Include="node_modules\lodash\fp\min.js" />
-    <Content Include="node_modules\lodash\fp\minBy.js" />
-    <Content Include="node_modules\lodash\fp\mixin.js" />
-    <Content Include="node_modules\lodash\fp\multiply.js" />
-    <Content Include="node_modules\lodash\fp\nAry.js" />
-    <Content Include="node_modules\lodash\fp\negate.js" />
-    <Content Include="node_modules\lodash\fp\next.js" />
-    <Content Include="node_modules\lodash\fp\noop.js" />
-    <Content Include="node_modules\lodash\fp\now.js" />
-    <Content Include="node_modules\lodash\fp\nth.js" />
-    <Content Include="node_modules\lodash\fp\nthArg.js" />
-    <Content Include="node_modules\lodash\fp\number.js" />
-    <Content Include="node_modules\lodash\fp\object.js" />
-    <Content Include="node_modules\lodash\fp\omit.js" />
-    <Content Include="node_modules\lodash\fp\omitAll.js" />
-    <Content Include="node_modules\lodash\fp\omitBy.js" />
-    <Content Include="node_modules\lodash\fp\once.js" />
-    <Content Include="node_modules\lodash\fp\orderBy.js" />
-    <Content Include="node_modules\lodash\fp\over.js" />
-    <Content Include="node_modules\lodash\fp\overArgs.js" />
-    <Content Include="node_modules\lodash\fp\overEvery.js" />
-    <Content Include="node_modules\lodash\fp\overSome.js" />
-    <Content Include="node_modules\lodash\fp\pad.js" />
-    <Content Include="node_modules\lodash\fp\padChars.js" />
-    <Content Include="node_modules\lodash\fp\padCharsEnd.js" />
-    <Content Include="node_modules\lodash\fp\padCharsStart.js" />
-    <Content Include="node_modules\lodash\fp\padEnd.js" />
-    <Content Include="node_modules\lodash\fp\padStart.js" />
-    <Content Include="node_modules\lodash\fp\parseInt.js" />
-    <Content Include="node_modules\lodash\fp\partial.js" />
-    <Content Include="node_modules\lodash\fp\partialRight.js" />
-    <Content Include="node_modules\lodash\fp\partition.js" />
-    <Content Include="node_modules\lodash\fp\path.js" />
-    <Content Include="node_modules\lodash\fp\pathEq.js" />
-    <Content Include="node_modules\lodash\fp\pathOr.js" />
-    <Content Include="node_modules\lodash\fp\paths.js" />
-    <Content Include="node_modules\lodash\fp\pick.js" />
-    <Content Include="node_modules\lodash\fp\pickAll.js" />
-    <Content Include="node_modules\lodash\fp\pickBy.js" />
-    <Content Include="node_modules\lodash\fp\pipe.js" />
-    <Content Include="node_modules\lodash\fp\placeholder.js" />
-    <Content Include="node_modules\lodash\fp\plant.js" />
-    <Content Include="node_modules\lodash\fp\pluck.js" />
-    <Content Include="node_modules\lodash\fp\prop.js" />
-    <Content Include="node_modules\lodash\fp\propEq.js" />
-    <Content Include="node_modules\lodash\fp\property.js" />
-    <Content Include="node_modules\lodash\fp\propertyOf.js" />
-    <Content Include="node_modules\lodash\fp\propOr.js" />
-    <Content Include="node_modules\lodash\fp\props.js" />
-    <Content Include="node_modules\lodash\fp\pull.js" />
-    <Content Include="node_modules\lodash\fp\pullAll.js" />
-    <Content Include="node_modules\lodash\fp\pullAllBy.js" />
-    <Content Include="node_modules\lodash\fp\pullAllWith.js" />
-    <Content Include="node_modules\lodash\fp\pullAt.js" />
-    <Content Include="node_modules\lodash\fp\random.js" />
-    <Content Include="node_modules\lodash\fp\range.js" />
-    <Content Include="node_modules\lodash\fp\rangeRight.js" />
-    <Content Include="node_modules\lodash\fp\rangeStep.js" />
-    <Content Include="node_modules\lodash\fp\rangeStepRight.js" />
-    <Content Include="node_modules\lodash\fp\rearg.js" />
-    <Content Include="node_modules\lodash\fp\reduce.js" />
-    <Content Include="node_modules\lodash\fp\reduceRight.js" />
-    <Content Include="node_modules\lodash\fp\reject.js" />
-    <Content Include="node_modules\lodash\fp\remove.js" />
-    <Content Include="node_modules\lodash\fp\repeat.js" />
-    <Content Include="node_modules\lodash\fp\replace.js" />
-    <Content Include="node_modules\lodash\fp\rest.js" />
-    <Content Include="node_modules\lodash\fp\restFrom.js" />
-    <Content Include="node_modules\lodash\fp\result.js" />
-    <Content Include="node_modules\lodash\fp\reverse.js" />
-    <Content Include="node_modules\lodash\fp\round.js" />
-    <Content Include="node_modules\lodash\fp\sample.js" />
-    <Content Include="node_modules\lodash\fp\sampleSize.js" />
-    <Content Include="node_modules\lodash\fp\seq.js" />
-    <Content Include="node_modules\lodash\fp\set.js" />
-    <Content Include="node_modules\lodash\fp\setWith.js" />
-    <Content Include="node_modules\lodash\fp\shuffle.js" />
-    <Content Include="node_modules\lodash\fp\size.js" />
-    <Content Include="node_modules\lodash\fp\slice.js" />
-    <Content Include="node_modules\lodash\fp\snakeCase.js" />
-    <Content Include="node_modules\lodash\fp\some.js" />
-    <Content Include="node_modules\lodash\fp\sortBy.js" />
-    <Content Include="node_modules\lodash\fp\sortedIndex.js" />
-    <Content Include="node_modules\lodash\fp\sortedIndexBy.js" />
-    <Content Include="node_modules\lodash\fp\sortedIndexOf.js" />
-    <Content Include="node_modules\lodash\fp\sortedLastIndex.js" />
-    <Content Include="node_modules\lodash\fp\sortedLastIndexBy.js" />
-    <Content Include="node_modules\lodash\fp\sortedLastIndexOf.js" />
-    <Content Include="node_modules\lodash\fp\sortedUniq.js" />
-    <Content Include="node_modules\lodash\fp\sortedUniqBy.js" />
-    <Content Include="node_modules\lodash\fp\split.js" />
-    <Content Include="node_modules\lodash\fp\spread.js" />
-    <Content Include="node_modules\lodash\fp\spreadFrom.js" />
-    <Content Include="node_modules\lodash\fp\startCase.js" />
-    <Content Include="node_modules\lodash\fp\startsWith.js" />
-    <Content Include="node_modules\lodash\fp\string.js" />
-    <Content Include="node_modules\lodash\fp\stubArray.js" />
-    <Content Include="node_modules\lodash\fp\stubFalse.js" />
-    <Content Include="node_modules\lodash\fp\stubObject.js" />
-    <Content Include="node_modules\lodash\fp\stubString.js" />
-    <Content Include="node_modules\lodash\fp\stubTrue.js" />
-    <Content Include="node_modules\lodash\fp\subtract.js" />
-    <Content Include="node_modules\lodash\fp\sum.js" />
-    <Content Include="node_modules\lodash\fp\sumBy.js" />
-    <Content Include="node_modules\lodash\fp\symmetricDifference.js" />
-    <Content Include="node_modules\lodash\fp\symmetricDifferenceBy.js" />
-    <Content Include="node_modules\lodash\fp\symmetricDifferenceWith.js" />
-    <Content Include="node_modules\lodash\fp\T.js" />
-    <Content Include="node_modules\lodash\fp\tail.js" />
-    <Content Include="node_modules\lodash\fp\take.js" />
-    <Content Include="node_modules\lodash\fp\takeLast.js" />
-    <Content Include="node_modules\lodash\fp\takeLastWhile.js" />
-    <Content Include="node_modules\lodash\fp\takeRight.js" />
-    <Content Include="node_modules\lodash\fp\takeRightWhile.js" />
-    <Content Include="node_modules\lodash\fp\takeWhile.js" />
-    <Content Include="node_modules\lodash\fp\tap.js" />
-    <Content Include="node_modules\lodash\fp\template.js" />
-    <Content Include="node_modules\lodash\fp\templateSettings.js" />
-    <Content Include="node_modules\lodash\fp\throttle.js" />
-    <Content Include="node_modules\lodash\fp\thru.js" />
-    <Content Include="node_modules\lodash\fp\times.js" />
-    <Content Include="node_modules\lodash\fp\toArray.js" />
-    <Content Include="node_modules\lodash\fp\toFinite.js" />
-    <Content Include="node_modules\lodash\fp\toInteger.js" />
-    <Content Include="node_modules\lodash\fp\toIterator.js" />
-    <Content Include="node_modules\lodash\fp\toJSON.js" />
-    <Content Include="node_modules\lodash\fp\toLength.js" />
-    <Content Include="node_modules\lodash\fp\toLower.js" />
-    <Content Include="node_modules\lodash\fp\toNumber.js" />
-    <Content Include="node_modules\lodash\fp\toPairs.js" />
-    <Content Include="node_modules\lodash\fp\toPairsIn.js" />
-    <Content Include="node_modules\lodash\fp\toPath.js" />
-    <Content Include="node_modules\lodash\fp\toPlainObject.js" />
-    <Content Include="node_modules\lodash\fp\toSafeInteger.js" />
-    <Content Include="node_modules\lodash\fp\toString.js" />
-    <Content Include="node_modules\lodash\fp\toUpper.js" />
-    <Content Include="node_modules\lodash\fp\transform.js" />
-    <Content Include="node_modules\lodash\fp\trim.js" />
-    <Content Include="node_modules\lodash\fp\trimChars.js" />
-    <Content Include="node_modules\lodash\fp\trimCharsEnd.js" />
-    <Content Include="node_modules\lodash\fp\trimCharsStart.js" />
-    <Content Include="node_modules\lodash\fp\trimEnd.js" />
-    <Content Include="node_modules\lodash\fp\trimStart.js" />
-    <Content Include="node_modules\lodash\fp\truncate.js" />
-    <Content Include="node_modules\lodash\fp\unapply.js" />
-    <Content Include="node_modules\lodash\fp\unary.js" />
-    <Content Include="node_modules\lodash\fp\unescape.js" />
-    <Content Include="node_modules\lodash\fp\union.js" />
-    <Content Include="node_modules\lodash\fp\unionBy.js" />
-    <Content Include="node_modules\lodash\fp\unionWith.js" />
-    <Content Include="node_modules\lodash\fp\uniq.js" />
-    <Content Include="node_modules\lodash\fp\uniqBy.js" />
-    <Content Include="node_modules\lodash\fp\uniqueId.js" />
-    <Content Include="node_modules\lodash\fp\uniqWith.js" />
-    <Content Include="node_modules\lodash\fp\unnest.js" />
-    <Content Include="node_modules\lodash\fp\unset.js" />
-    <Content Include="node_modules\lodash\fp\unzip.js" />
-    <Content Include="node_modules\lodash\fp\unzipWith.js" />
-    <Content Include="node_modules\lodash\fp\update.js" />
-    <Content Include="node_modules\lodash\fp\updateWith.js" />
-    <Content Include="node_modules\lodash\fp\upperCase.js" />
-    <Content Include="node_modules\lodash\fp\upperFirst.js" />
-    <Content Include="node_modules\lodash\fp\useWith.js" />
-    <Content Include="node_modules\lodash\fp\util.js" />
-    <Content Include="node_modules\lodash\fp\value.js" />
-    <Content Include="node_modules\lodash\fp\valueOf.js" />
-    <Content Include="node_modules\lodash\fp\values.js" />
-    <Content Include="node_modules\lodash\fp\valuesIn.js" />
-    <Content Include="node_modules\lodash\fp\where.js" />
-    <Content Include="node_modules\lodash\fp\whereEq.js" />
-    <Content Include="node_modules\lodash\fp\without.js" />
-    <Content Include="node_modules\lodash\fp\words.js" />
-    <Content Include="node_modules\lodash\fp\wrap.js" />
-    <Content Include="node_modules\lodash\fp\wrapperAt.js" />
-    <Content Include="node_modules\lodash\fp\wrapperChain.js" />
-    <Content Include="node_modules\lodash\fp\wrapperLodash.js" />
-    <Content Include="node_modules\lodash\fp\wrapperReverse.js" />
-    <Content Include="node_modules\lodash\fp\wrapperValue.js" />
-    <Content Include="node_modules\lodash\fp\xor.js" />
-    <Content Include="node_modules\lodash\fp\xorBy.js" />
-    <Content Include="node_modules\lodash\fp\xorWith.js" />
-    <Content Include="node_modules\lodash\fp\zip.js" />
-    <Content Include="node_modules\lodash\fp\zipAll.js" />
-    <Content Include="node_modules\lodash\fp\zipObj.js" />
-    <Content Include="node_modules\lodash\fp\zipObject.js" />
-    <Content Include="node_modules\lodash\fp\zipObjectDeep.js" />
-    <Content Include="node_modules\lodash\fp\zipWith.js" />
-    <Content Include="node_modules\lodash\fp\_baseConvert.js" />
-    <Content Include="node_modules\lodash\fp\_convertBrowser.js" />
-    <Content Include="node_modules\lodash\fp\_falseOptions.js" />
-    <Content Include="node_modules\lodash\fp\_mapping.js" />
-    <Content Include="node_modules\lodash\fp\_util.js" />
-    <Content Include="node_modules\lodash\fp\__.js" />
-    <Content Include="node_modules\lodash\fromPairs.js" />
-    <Content Include="node_modules\lodash\function.js" />
-    <Content Include="node_modules\lodash\functions.js" />
-    <Content Include="node_modules\lodash\functionsIn.js" />
-    <Content Include="node_modules\lodash\get.js" />
-    <Content Include="node_modules\lodash\groupBy.js" />
-    <Content Include="node_modules\lodash\gt.js" />
-    <Content Include="node_modules\lodash\gte.js" />
-    <Content Include="node_modules\lodash\has.js" />
-    <Content Include="node_modules\lodash\hasIn.js" />
-    <Content Include="node_modules\lodash\head.js" />
-    <Content Include="node_modules\lodash\identity.js" />
-    <Content Include="node_modules\lodash\includes.js" />
-    <Content Include="node_modules\lodash\index.js" />
-    <Content Include="node_modules\lodash\indexOf.js" />
-    <Content Include="node_modules\lodash\initial.js" />
-    <Content Include="node_modules\lodash\inRange.js" />
-    <Content Include="node_modules\lodash\intersection.js" />
-    <Content Include="node_modules\lodash\intersectionBy.js" />
-    <Content Include="node_modules\lodash\intersectionWith.js" />
-    <Content Include="node_modules\lodash\invert.js" />
-    <Content Include="node_modules\lodash\invertBy.js" />
-    <Content Include="node_modules\lodash\invoke.js" />
-    <Content Include="node_modules\lodash\invokeMap.js" />
-    <Content Include="node_modules\lodash\isArguments.js" />
-    <Content Include="node_modules\lodash\isArray.js" />
-    <Content Include="node_modules\lodash\isArrayBuffer.js" />
-    <Content Include="node_modules\lodash\isArrayLike.js" />
-    <Content Include="node_modules\lodash\isArrayLikeObject.js" />
-    <Content Include="node_modules\lodash\isBoolean.js" />
-    <Content Include="node_modules\lodash\isBuffer.js" />
-    <Content Include="node_modules\lodash\isDate.js" />
-    <Content Include="node_modules\lodash\isElement.js" />
-    <Content Include="node_modules\lodash\isEmpty.js" />
-    <Content Include="node_modules\lodash\isEqual.js" />
-    <Content Include="node_modules\lodash\isEqualWith.js" />
-    <Content Include="node_modules\lodash\isError.js" />
-    <Content Include="node_modules\lodash\isFinite.js" />
-    <Content Include="node_modules\lodash\isFunction.js" />
-    <Content Include="node_modules\lodash\isInteger.js" />
-    <Content Include="node_modules\lodash\isLength.js" />
-    <Content Include="node_modules\lodash\isMap.js" />
-    <Content Include="node_modules\lodash\isMatch.js" />
-    <Content Include="node_modules\lodash\isMatchWith.js" />
-    <Content Include="node_modules\lodash\isNaN.js" />
-    <Content Include="node_modules\lodash\isNative.js" />
-    <Content Include="node_modules\lodash\isNil.js" />
-    <Content Include="node_modules\lodash\isNull.js" />
-    <Content Include="node_modules\lodash\isNumber.js" />
-    <Content Include="node_modules\lodash\isObject.js" />
-    <Content Include="node_modules\lodash\isObjectLike.js" />
-    <Content Include="node_modules\lodash\isPlainObject.js" />
-    <Content Include="node_modules\lodash\isRegExp.js" />
-    <Content Include="node_modules\lodash\isSafeInteger.js" />
-    <Content Include="node_modules\lodash\isSet.js" />
-    <Content Include="node_modules\lodash\isString.js" />
-    <Content Include="node_modules\lodash\isSymbol.js" />
-    <Content Include="node_modules\lodash\isTypedArray.js" />
-    <Content Include="node_modules\lodash\isUndefined.js" />
-    <Content Include="node_modules\lodash\isWeakMap.js" />
-    <Content Include="node_modules\lodash\isWeakSet.js" />
-    <Content Include="node_modules\lodash\iteratee.js" />
-    <Content Include="node_modules\lodash\join.js" />
-    <Content Include="node_modules\lodash\kebabCase.js" />
-    <Content Include="node_modules\lodash\keyBy.js" />
-    <Content Include="node_modules\lodash\keys.js" />
-    <Content Include="node_modules\lodash\keysIn.js" />
-    <Content Include="node_modules\lodash\lang.js" />
-    <Content Include="node_modules\lodash\last.js" />
-    <Content Include="node_modules\lodash\lastIndexOf.js" />
-    <Content Include="node_modules\lodash\LICENSE" />
-    <Content Include="node_modules\lodash\lodash.js" />
-    <Content Include="node_modules\lodash\lodash.min.js" />
-    <Content Include="node_modules\lodash\lowerCase.js" />
-    <Content Include="node_modules\lodash\lowerFirst.js" />
-    <Content Include="node_modules\lodash\lt.js" />
-    <Content Include="node_modules\lodash\lte.js" />
-    <Content Include="node_modules\lodash\map.js" />
-    <Content Include="node_modules\lodash\mapKeys.js" />
-    <Content Include="node_modules\lodash\mapValues.js" />
-    <Content Include="node_modules\lodash\matches.js" />
-    <Content Include="node_modules\lodash\matchesProperty.js" />
-    <Content Include="node_modules\lodash\math.js" />
-    <Content Include="node_modules\lodash\max.js" />
-    <Content Include="node_modules\lodash\maxBy.js" />
-    <Content Include="node_modules\lodash\mean.js" />
-    <Content Include="node_modules\lodash\meanBy.js" />
-    <Content Include="node_modules\lodash\memoize.js" />
-    <Content Include="node_modules\lodash\merge.js" />
-    <Content Include="node_modules\lodash\mergeWith.js" />
-    <Content Include="node_modules\lodash\method.js" />
-    <Content Include="node_modules\lodash\methodOf.js" />
-    <Content Include="node_modules\lodash\min.js" />
-    <Content Include="node_modules\lodash\minBy.js" />
-    <Content Include="node_modules\lodash\mixin.js" />
-    <Content Include="node_modules\lodash\multiply.js" />
-    <Content Include="node_modules\lodash\negate.js" />
-    <Content Include="node_modules\lodash\next.js" />
-    <Content Include="node_modules\lodash\noop.js" />
-    <Content Include="node_modules\lodash\now.js" />
-    <Content Include="node_modules\lodash\nth.js" />
-    <Content Include="node_modules\lodash\nthArg.js" />
-    <Content Include="node_modules\lodash\number.js" />
-    <Content Include="node_modules\lodash\object.js" />
-    <Content Include="node_modules\lodash\omit.js" />
-    <Content Include="node_modules\lodash\omitBy.js" />
-    <Content Include="node_modules\lodash\once.js" />
-    <Content Include="node_modules\lodash\orderBy.js" />
-    <Content Include="node_modules\lodash\over.js" />
-    <Content Include="node_modules\lodash\overArgs.js" />
-    <Content Include="node_modules\lodash\overEvery.js" />
-    <Content Include="node_modules\lodash\overSome.js" />
-    <Content Include="node_modules\lodash\package.json" />
-    <Content Include="node_modules\lodash\pad.js" />
-    <Content Include="node_modules\lodash\padEnd.js" />
-    <Content Include="node_modules\lodash\padStart.js" />
-    <Content Include="node_modules\lodash\parseInt.js" />
-    <Content Include="node_modules\lodash\partial.js" />
-    <Content Include="node_modules\lodash\partialRight.js" />
-    <Content Include="node_modules\lodash\partition.js" />
-    <Content Include="node_modules\lodash\pick.js" />
-    <Content Include="node_modules\lodash\pickBy.js" />
-    <Content Include="node_modules\lodash\plant.js" />
-    <Content Include="node_modules\lodash\property.js" />
-    <Content Include="node_modules\lodash\propertyOf.js" />
-    <Content Include="node_modules\lodash\pull.js" />
-    <Content Include="node_modules\lodash\pullAll.js" />
-    <Content Include="node_modules\lodash\pullAllBy.js" />
-    <Content Include="node_modules\lodash\pullAllWith.js" />
-    <Content Include="node_modules\lodash\pullAt.js" />
-    <Content Include="node_modules\lodash\random.js" />
-    <Content Include="node_modules\lodash\range.js" />
-    <Content Include="node_modules\lodash\rangeRight.js" />
-    <Content Include="node_modules\lodash\README.md" />
-    <Content Include="node_modules\lodash\rearg.js" />
-    <Content Include="node_modules\lodash\reduce.js" />
-    <Content Include="node_modules\lodash\reduceRight.js" />
-    <Content Include="node_modules\lodash\reject.js" />
-    <Content Include="node_modules\lodash\release.md" />
-    <Content Include="node_modules\lodash\remove.js" />
-    <Content Include="node_modules\lodash\repeat.js" />
-    <Content Include="node_modules\lodash\replace.js" />
-    <Content Include="node_modules\lodash\rest.js" />
-    <Content Include="node_modules\lodash\result.js" />
-    <Content Include="node_modules\lodash\reverse.js" />
-    <Content Include="node_modules\lodash\round.js" />
-    <Content Include="node_modules\lodash\sample.js" />
-    <Content Include="node_modules\lodash\sampleSize.js" />
-    <Content Include="node_modules\lodash\seq.js" />
-    <Content Include="node_modules\lodash\set.js" />
-    <Content Include="node_modules\lodash\setWith.js" />
-    <Content Include="node_modules\lodash\shuffle.js" />
-    <Content Include="node_modules\lodash\size.js" />
-    <Content Include="node_modules\lodash\slice.js" />
-    <Content Include="node_modules\lodash\snakeCase.js" />
-    <Content Include="node_modules\lodash\some.js" />
-    <Content Include="node_modules\lodash\sortBy.js" />
-    <Content Include="node_modules\lodash\sortedIndex.js" />
-    <Content Include="node_modules\lodash\sortedIndexBy.js" />
-    <Content Include="node_modules\lodash\sortedIndexOf.js" />
-    <Content Include="node_modules\lodash\sortedLastIndex.js" />
-    <Content Include="node_modules\lodash\sortedLastIndexBy.js" />
-    <Content Include="node_modules\lodash\sortedLastIndexOf.js" />
-    <Content Include="node_modules\lodash\sortedUniq.js" />
-    <Content Include="node_modules\lodash\sortedUniqBy.js" />
-    <Content Include="node_modules\lodash\split.js" />
-    <Content Include="node_modules\lodash\spread.js" />
-    <Content Include="node_modules\lodash\startCase.js" />
-    <Content Include="node_modules\lodash\startsWith.js" />
-    <Content Include="node_modules\lodash\string.js" />
-    <Content Include="node_modules\lodash\stubArray.js" />
-    <Content Include="node_modules\lodash\stubFalse.js" />
-    <Content Include="node_modules\lodash\stubObject.js" />
-    <Content Include="node_modules\lodash\stubString.js" />
-    <Content Include="node_modules\lodash\stubTrue.js" />
-    <Content Include="node_modules\lodash\subtract.js" />
-    <Content Include="node_modules\lodash\sum.js" />
-    <Content Include="node_modules\lodash\sumBy.js" />
-    <Content Include="node_modules\lodash\tail.js" />
-    <Content Include="node_modules\lodash\take.js" />
-    <Content Include="node_modules\lodash\takeRight.js" />
-    <Content Include="node_modules\lodash\takeRightWhile.js" />
-    <Content Include="node_modules\lodash\takeWhile.js" />
-    <Content Include="node_modules\lodash\tap.js" />
-    <Content Include="node_modules\lodash\template.js" />
-    <Content Include="node_modules\lodash\templateSettings.js" />
-    <Content Include="node_modules\lodash\throttle.js" />
-    <Content Include="node_modules\lodash\thru.js" />
-    <Content Include="node_modules\lodash\times.js" />
-    <Content Include="node_modules\lodash\toArray.js" />
-    <Content Include="node_modules\lodash\toFinite.js" />
-    <Content Include="node_modules\lodash\toInteger.js" />
-    <Content Include="node_modules\lodash\toIterator.js" />
-    <Content Include="node_modules\lodash\toJSON.js" />
-    <Content Include="node_modules\lodash\toLength.js" />
-    <Content Include="node_modules\lodash\toLower.js" />
-    <Content Include="node_modules\lodash\toNumber.js" />
-    <Content Include="node_modules\lodash\toPairs.js" />
-    <Content Include="node_modules\lodash\toPairsIn.js" />
-    <Content Include="node_modules\lodash\toPath.js" />
-    <Content Include="node_modules\lodash\toPlainObject.js" />
-    <Content Include="node_modules\lodash\toSafeInteger.js" />
-    <Content Include="node_modules\lodash\toString.js" />
-    <Content Include="node_modules\lodash\toUpper.js" />
-    <Content Include="node_modules\lodash\transform.js" />
-    <Content Include="node_modules\lodash\trim.js" />
-    <Content Include="node_modules\lodash\trimEnd.js" />
-    <Content Include="node_modules\lodash\trimStart.js" />
-    <Content Include="node_modules\lodash\truncate.js" />
-    <Content Include="node_modules\lodash\unary.js" />
-    <Content Include="node_modules\lodash\unescape.js" />
-    <Content Include="node_modules\lodash\union.js" />
-    <Content Include="node_modules\lodash\unionBy.js" />
-    <Content Include="node_modules\lodash\unionWith.js" />
-    <Content Include="node_modules\lodash\uniq.js" />
-    <Content Include="node_modules\lodash\uniqBy.js" />
-    <Content Include="node_modules\lodash\uniqueId.js" />
-    <Content Include="node_modules\lodash\uniqWith.js" />
-    <Content Include="node_modules\lodash\unset.js" />
-    <Content Include="node_modules\lodash\unzip.js" />
-    <Content Include="node_modules\lodash\unzipWith.js" />
-    <Content Include="node_modules\lodash\update.js" />
-    <Content Include="node_modules\lodash\updateWith.js" />
-    <Content Include="node_modules\lodash\upperCase.js" />
-    <Content Include="node_modules\lodash\upperFirst.js" />
-    <Content Include="node_modules\lodash\util.js" />
-    <Content Include="node_modules\lodash\value.js" />
-    <Content Include="node_modules\lodash\valueOf.js" />
-    <Content Include="node_modules\lodash\values.js" />
-    <Content Include="node_modules\lodash\valuesIn.js" />
-    <Content Include="node_modules\lodash\without.js" />
-    <Content Include="node_modules\lodash\words.js" />
-    <Content Include="node_modules\lodash\wrap.js" />
-    <Content Include="node_modules\lodash\wrapperAt.js" />
-    <Content Include="node_modules\lodash\wrapperChain.js" />
-    <Content Include="node_modules\lodash\wrapperLodash.js" />
-    <Content Include="node_modules\lodash\wrapperReverse.js" />
-    <Content Include="node_modules\lodash\wrapperValue.js" />
-    <Content Include="node_modules\lodash\xor.js" />
-    <Content Include="node_modules\lodash\xorBy.js" />
-    <Content Include="node_modules\lodash\xorWith.js" />
-    <Content Include="node_modules\lodash\zip.js" />
-    <Content Include="node_modules\lodash\zipObject.js" />
-    <Content Include="node_modules\lodash\zipObjectDeep.js" />
-    <Content Include="node_modules\lodash\zipWith.js" />
-    <Content Include="node_modules\lodash\_apply.js" />
-    <Content Include="node_modules\lodash\_arrayAggregator.js" />
-    <Content Include="node_modules\lodash\_arrayEach.js" />
-    <Content Include="node_modules\lodash\_arrayEachRight.js" />
-    <Content Include="node_modules\lodash\_arrayEvery.js" />
-    <Content Include="node_modules\lodash\_arrayFilter.js" />
-    <Content Include="node_modules\lodash\_arrayIncludes.js" />
-    <Content Include="node_modules\lodash\_arrayIncludesWith.js" />
-    <Content Include="node_modules\lodash\_arrayLikeKeys.js" />
-    <Content Include="node_modules\lodash\_arrayMap.js" />
-    <Content Include="node_modules\lodash\_arrayPush.js" />
-    <Content Include="node_modules\lodash\_arrayReduce.js" />
-    <Content Include="node_modules\lodash\_arrayReduceRight.js" />
-    <Content Include="node_modules\lodash\_arraySample.js" />
-    <Content Include="node_modules\lodash\_arraySampleSize.js" />
-    <Content Include="node_modules\lodash\_arrayShuffle.js" />
-    <Content Include="node_modules\lodash\_arraySome.js" />
-    <Content Include="node_modules\lodash\_asciiSize.js" />
-    <Content Include="node_modules\lodash\_asciiToArray.js" />
-    <Content Include="node_modules\lodash\_asciiWords.js" />
-    <Content Include="node_modules\lodash\_assignMergeValue.js" />
-    <Content Include="node_modules\lodash\_assignValue.js" />
-    <Content Include="node_modules\lodash\_assocIndexOf.js" />
-    <Content Include="node_modules\lodash\_baseAggregator.js" />
-    <Content Include="node_modules\lodash\_baseAssign.js" />
-    <Content Include="node_modules\lodash\_baseAssignIn.js" />
-    <Content Include="node_modules\lodash\_baseAssignValue.js" />
-    <Content Include="node_modules\lodash\_baseAt.js" />
-    <Content Include="node_modules\lodash\_baseClamp.js" />
-    <Content Include="node_modules\lodash\_baseClone.js" />
-    <Content Include="node_modules\lodash\_baseConforms.js" />
-    <Content Include="node_modules\lodash\_baseConformsTo.js" />
-    <Content Include="node_modules\lodash\_baseCreate.js" />
-    <Content Include="node_modules\lodash\_baseDelay.js" />
-    <Content Include="node_modules\lodash\_baseDifference.js" />
-    <Content Include="node_modules\lodash\_baseEach.js" />
-    <Content Include="node_modules\lodash\_baseEachRight.js" />
-    <Content Include="node_modules\lodash\_baseEvery.js" />
-    <Content Include="node_modules\lodash\_baseExtremum.js" />
-    <Content Include="node_modules\lodash\_baseFill.js" />
-    <Content Include="node_modules\lodash\_baseFilter.js" />
-    <Content Include="node_modules\lodash\_baseFindIndex.js" />
-    <Content Include="node_modules\lodash\_baseFindKey.js" />
-    <Content Include="node_modules\lodash\_baseFlatten.js" />
-    <Content Include="node_modules\lodash\_baseFor.js" />
-    <Content Include="node_modules\lodash\_baseForOwn.js" />
-    <Content Include="node_modules\lodash\_baseForOwnRight.js" />
-    <Content Include="node_modules\lodash\_baseForRight.js" />
-    <Content Include="node_modules\lodash\_baseFunctions.js" />
-    <Content Include="node_modules\lodash\_baseGet.js" />
-    <Content Include="node_modules\lodash\_baseGetAllKeys.js" />
-    <Content Include="node_modules\lodash\_baseGetTag.js" />
-    <Content Include="node_modules\lodash\_baseGt.js" />
-    <Content Include="node_modules\lodash\_baseHas.js" />
-    <Content Include="node_modules\lodash\_baseHasIn.js" />
-    <Content Include="node_modules\lodash\_baseIndexOf.js" />
-    <Content Include="node_modules\lodash\_baseIndexOfWith.js" />
-    <Content Include="node_modules\lodash\_baseInRange.js" />
-    <Content Include="node_modules\lodash\_baseIntersection.js" />
-    <Content Include="node_modules\lodash\_baseInverter.js" />
-    <Content Include="node_modules\lodash\_baseInvoke.js" />
-    <Content Include="node_modules\lodash\_baseIsArguments.js" />
-    <Content Include="node_modules\lodash\_baseIsArrayBuffer.js" />
-    <Content Include="node_modules\lodash\_baseIsDate.js" />
-    <Content Include="node_modules\lodash\_baseIsEqual.js" />
-    <Content Include="node_modules\lodash\_baseIsEqualDeep.js" />
-    <Content Include="node_modules\lodash\_baseIsMap.js" />
-    <Content Include="node_modules\lodash\_baseIsMatch.js" />
-    <Content Include="node_modules\lodash\_baseIsNaN.js" />
-    <Content Include="node_modules\lodash\_baseIsNative.js" />
-    <Content Include="node_modules\lodash\_baseIsRegExp.js" />
-    <Content Include="node_modules\lodash\_baseIsSet.js" />
-    <Content Include="node_modules\lodash\_baseIsTypedArray.js" />
-    <Content Include="node_modules\lodash\_baseIteratee.js" />
-    <Content Include="node_modules\lodash\_baseKeys.js" />
-    <Content Include="node_modules\lodash\_baseKeysIn.js" />
-    <Content Include="node_modules\lodash\_baseLodash.js" />
-    <Content Include="node_modules\lodash\_baseLt.js" />
-    <Content Include="node_modules\lodash\_baseMap.js" />
-    <Content Include="node_modules\lodash\_baseMatches.js" />
-    <Content Include="node_modules\lodash\_baseMatchesProperty.js" />
-    <Content Include="node_modules\lodash\_baseMean.js" />
-    <Content Include="node_modules\lodash\_baseMerge.js" />
-    <Content Include="node_modules\lodash\_baseMergeDeep.js" />
-    <Content Include="node_modules\lodash\_baseNth.js" />
-    <Content Include="node_modules\lodash\_baseOrderBy.js" />
-    <Content Include="node_modules\lodash\_basePick.js" />
-    <Content Include="node_modules\lodash\_basePickBy.js" />
-    <Content Include="node_modules\lodash\_baseProperty.js" />
-    <Content Include="node_modules\lodash\_basePropertyDeep.js" />
-    <Content Include="node_modules\lodash\_basePropertyOf.js" />
-    <Content Include="node_modules\lodash\_basePullAll.js" />
-    <Content Include="node_modules\lodash\_basePullAt.js" />
-    <Content Include="node_modules\lodash\_baseRandom.js" />
-    <Content Include="node_modules\lodash\_baseRange.js" />
-    <Content Include="node_modules\lodash\_baseReduce.js" />
-    <Content Include="node_modules\lodash\_baseRepeat.js" />
-    <Content Include="node_modules\lodash\_baseRest.js" />
-    <Content Include="node_modules\lodash\_baseSample.js" />
-    <Content Include="node_modules\lodash\_baseSampleSize.js" />
-    <Content Include="node_modules\lodash\_baseSet.js" />
-    <Content Include="node_modules\lodash\_baseSetData.js" />
-    <Content Include="node_modules\lodash\_baseSetToString.js" />
-    <Content Include="node_modules\lodash\_baseShuffle.js" />
-    <Content Include="node_modules\lodash\_baseSlice.js" />
-    <Content Include="node_modules\lodash\_baseSome.js" />
-    <Content Include="node_modules\lodash\_baseSortBy.js" />
-    <Content Include="node_modules\lodash\_baseSortedIndex.js" />
-    <Content Include="node_modules\lodash\_baseSortedIndexBy.js" />
-    <Content Include="node_modules\lodash\_baseSortedUniq.js" />
-    <Content Include="node_modules\lodash\_baseSum.js" />
-    <Content Include="node_modules\lodash\_baseTimes.js" />
-    <Content Include="node_modules\lodash\_baseToNumber.js" />
-    <Content Include="node_modules\lodash\_baseToPairs.js" />
-    <Content Include="node_modules\lodash\_baseToString.js" />
-    <Content Include="node_modules\lodash\_baseTrim.js" />
-    <Content Include="node_modules\lodash\_baseUnary.js" />
-    <Content Include="node_modules\lodash\_baseUniq.js" />
-    <Content Include="node_modules\lodash\_baseUnset.js" />
-    <Content Include="node_modules\lodash\_baseUpdate.js" />
-    <Content Include="node_modules\lodash\_baseValues.js" />
-    <Content Include="node_modules\lodash\_baseWhile.js" />
-    <Content Include="node_modules\lodash\_baseWrapperValue.js" />
-    <Content Include="node_modules\lodash\_baseXor.js" />
-    <Content Include="node_modules\lodash\_baseZipObject.js" />
-    <Content Include="node_modules\lodash\_cacheHas.js" />
-    <Content Include="node_modules\lodash\_castArrayLikeObject.js" />
-    <Content Include="node_modules\lodash\_castFunction.js" />
-    <Content Include="node_modules\lodash\_castPath.js" />
-    <Content Include="node_modules\lodash\_castRest.js" />
-    <Content Include="node_modules\lodash\_castSlice.js" />
-    <Content Include="node_modules\lodash\_charsEndIndex.js" />
-    <Content Include="node_modules\lodash\_charsStartIndex.js" />
-    <Content Include="node_modules\lodash\_cloneArrayBuffer.js" />
-    <Content Include="node_modules\lodash\_cloneBuffer.js" />
-    <Content Include="node_modules\lodash\_cloneDataView.js" />
-    <Content Include="node_modules\lodash\_cloneRegExp.js" />
-    <Content Include="node_modules\lodash\_cloneSymbol.js" />
-    <Content Include="node_modules\lodash\_cloneTypedArray.js" />
-    <Content Include="node_modules\lodash\_compareAscending.js" />
-    <Content Include="node_modules\lodash\_compareMultiple.js" />
-    <Content Include="node_modules\lodash\_composeArgs.js" />
-    <Content Include="node_modules\lodash\_composeArgsRight.js" />
-    <Content Include="node_modules\lodash\_copyArray.js" />
-    <Content Include="node_modules\lodash\_copyObject.js" />
-    <Content Include="node_modules\lodash\_copySymbols.js" />
-    <Content Include="node_modules\lodash\_copySymbolsIn.js" />
-    <Content Include="node_modules\lodash\_coreJsData.js" />
-    <Content Include="node_modules\lodash\_countHolders.js" />
-    <Content Include="node_modules\lodash\_createAggregator.js" />
-    <Content Include="node_modules\lodash\_createAssigner.js" />
-    <Content Include="node_modules\lodash\_createBaseEach.js" />
-    <Content Include="node_modules\lodash\_createBaseFor.js" />
-    <Content Include="node_modules\lodash\_createBind.js" />
-    <Content Include="node_modules\lodash\_createCaseFirst.js" />
-    <Content Include="node_modules\lodash\_createCompounder.js" />
-    <Content Include="node_modules\lodash\_createCtor.js" />
-    <Content Include="node_modules\lodash\_createCurry.js" />
-    <Content Include="node_modules\lodash\_createFind.js" />
-    <Content Include="node_modules\lodash\_createFlow.js" />
-    <Content Include="node_modules\lodash\_createHybrid.js" />
-    <Content Include="node_modules\lodash\_createInverter.js" />
-    <Content Include="node_modules\lodash\_createMathOperation.js" />
-    <Content Include="node_modules\lodash\_createOver.js" />
-    <Content Include="node_modules\lodash\_createPadding.js" />
-    <Content Include="node_modules\lodash\_createPartial.js" />
-    <Content Include="node_modules\lodash\_createRange.js" />
-    <Content Include="node_modules\lodash\_createRecurry.js" />
-    <Content Include="node_modules\lodash\_createRelationalOperation.js" />
-    <Content Include="node_modules\lodash\_createRound.js" />
-    <Content Include="node_modules\lodash\_createSet.js" />
-    <Content Include="node_modules\lodash\_createToPairs.js" />
-    <Content Include="node_modules\lodash\_createWrap.js" />
-    <Content Include="node_modules\lodash\_customDefaultsAssignIn.js" />
-    <Content Include="node_modules\lodash\_customDefaultsMerge.js" />
-    <Content Include="node_modules\lodash\_customOmitClone.js" />
-    <Content Include="node_modules\lodash\_DataView.js" />
-    <Content Include="node_modules\lodash\_deburrLetter.js" />
-    <Content Include="node_modules\lodash\_defineProperty.js" />
-    <Content Include="node_modules\lodash\_equalArrays.js" />
-    <Content Include="node_modules\lodash\_equalByTag.js" />
-    <Content Include="node_modules\lodash\_equalObjects.js" />
-    <Content Include="node_modules\lodash\_escapeHtmlChar.js" />
-    <Content Include="node_modules\lodash\_escapeStringChar.js" />
-    <Content Include="node_modules\lodash\_flatRest.js" />
-    <Content Include="node_modules\lodash\_freeGlobal.js" />
-    <Content Include="node_modules\lodash\_getAllKeys.js" />
-    <Content Include="node_modules\lodash\_getAllKeysIn.js" />
-    <Content Include="node_modules\lodash\_getData.js" />
-    <Content Include="node_modules\lodash\_getFuncName.js" />
-    <Content Include="node_modules\lodash\_getHolder.js" />
-    <Content Include="node_modules\lodash\_getMapData.js" />
-    <Content Include="node_modules\lodash\_getMatchData.js" />
-    <Content Include="node_modules\lodash\_getNative.js" />
-    <Content Include="node_modules\lodash\_getPrototype.js" />
-    <Content Include="node_modules\lodash\_getRawTag.js" />
-    <Content Include="node_modules\lodash\_getSymbols.js" />
-    <Content Include="node_modules\lodash\_getSymbolsIn.js" />
-    <Content Include="node_modules\lodash\_getTag.js" />
-    <Content Include="node_modules\lodash\_getValue.js" />
-    <Content Include="node_modules\lodash\_getView.js" />
-    <Content Include="node_modules\lodash\_getWrapDetails.js" />
-    <Content Include="node_modules\lodash\_Hash.js" />
-    <Content Include="node_modules\lodash\_hashClear.js" />
-    <Content Include="node_modules\lodash\_hashDelete.js" />
-    <Content Include="node_modules\lodash\_hashGet.js" />
-    <Content Include="node_modules\lodash\_hashHas.js" />
-    <Content Include="node_modules\lodash\_hashSet.js" />
-    <Content Include="node_modules\lodash\_hasPath.js" />
-    <Content Include="node_modules\lodash\_hasUnicode.js" />
-    <Content Include="node_modules\lodash\_hasUnicodeWord.js" />
-    <Content Include="node_modules\lodash\_initCloneArray.js" />
-    <Content Include="node_modules\lodash\_initCloneByTag.js" />
-    <Content Include="node_modules\lodash\_initCloneObject.js" />
-    <Content Include="node_modules\lodash\_insertWrapDetails.js" />
-    <Content Include="node_modules\lodash\_isFlattenable.js" />
-    <Content Include="node_modules\lodash\_isIndex.js" />
-    <Content Include="node_modules\lodash\_isIterateeCall.js" />
-    <Content Include="node_modules\lodash\_isKey.js" />
-    <Content Include="node_modules\lodash\_isKeyable.js" />
-    <Content Include="node_modules\lodash\_isLaziable.js" />
-    <Content Include="node_modules\lodash\_isMaskable.js" />
-    <Content Include="node_modules\lodash\_isMasked.js" />
-    <Content Include="node_modules\lodash\_isPrototype.js" />
-    <Content Include="node_modules\lodash\_isStrictComparable.js" />
-    <Content Include="node_modules\lodash\_iteratorToArray.js" />
-    <Content Include="node_modules\lodash\_lazyClone.js" />
-    <Content Include="node_modules\lodash\_lazyReverse.js" />
-    <Content Include="node_modules\lodash\_lazyValue.js" />
-    <Content Include="node_modules\lodash\_LazyWrapper.js" />
-    <Content Include="node_modules\lodash\_ListCache.js" />
-    <Content Include="node_modules\lodash\_listCacheClear.js" />
-    <Content Include="node_modules\lodash\_listCacheDelete.js" />
-    <Content Include="node_modules\lodash\_listCacheGet.js" />
-    <Content Include="node_modules\lodash\_listCacheHas.js" />
-    <Content Include="node_modules\lodash\_listCacheSet.js" />
-    <Content Include="node_modules\lodash\_LodashWrapper.js" />
-    <Content Include="node_modules\lodash\_Map.js" />
-    <Content Include="node_modules\lodash\_MapCache.js" />
-    <Content Include="node_modules\lodash\_mapCacheClear.js" />
-    <Content Include="node_modules\lodash\_mapCacheDelete.js" />
-    <Content Include="node_modules\lodash\_mapCacheGet.js" />
-    <Content Include="node_modules\lodash\_mapCacheHas.js" />
-    <Content Include="node_modules\lodash\_mapCacheSet.js" />
-    <Content Include="node_modules\lodash\_mapToArray.js" />
-    <Content Include="node_modules\lodash\_matchesStrictComparable.js" />
-    <Content Include="node_modules\lodash\_memoizeCapped.js" />
-    <Content Include="node_modules\lodash\_mergeData.js" />
-    <Content Include="node_modules\lodash\_metaMap.js" />
-    <Content Include="node_modules\lodash\_nativeCreate.js" />
-    <Content Include="node_modules\lodash\_nativeKeys.js" />
-    <Content Include="node_modules\lodash\_nativeKeysIn.js" />
-    <Content Include="node_modules\lodash\_nodeUtil.js" />
-    <Content Include="node_modules\lodash\_objectToString.js" />
-    <Content Include="node_modules\lodash\_overArg.js" />
-    <Content Include="node_modules\lodash\_overRest.js" />
-    <Content Include="node_modules\lodash\_parent.js" />
-    <Content Include="node_modules\lodash\_Promise.js" />
-    <Content Include="node_modules\lodash\_realNames.js" />
-    <Content Include="node_modules\lodash\_reEscape.js" />
-    <Content Include="node_modules\lodash\_reEvaluate.js" />
-    <Content Include="node_modules\lodash\_reInterpolate.js" />
-    <Content Include="node_modules\lodash\_reorder.js" />
-    <Content Include="node_modules\lodash\_replaceHolders.js" />
-    <Content Include="node_modules\lodash\_root.js" />
-    <Content Include="node_modules\lodash\_safeGet.js" />
-    <Content Include="node_modules\lodash\_Set.js" />
-    <Content Include="node_modules\lodash\_SetCache.js" />
-    <Content Include="node_modules\lodash\_setCacheAdd.js" />
-    <Content Include="node_modules\lodash\_setCacheHas.js" />
-    <Content Include="node_modules\lodash\_setData.js" />
-    <Content Include="node_modules\lodash\_setToArray.js" />
-    <Content Include="node_modules\lodash\_setToPairs.js" />
-    <Content Include="node_modules\lodash\_setToString.js" />
-    <Content Include="node_modules\lodash\_setWrapToString.js" />
-    <Content Include="node_modules\lodash\_shortOut.js" />
-    <Content Include="node_modules\lodash\_shuffleSelf.js" />
-    <Content Include="node_modules\lodash\_Stack.js" />
-    <Content Include="node_modules\lodash\_stackClear.js" />
-    <Content Include="node_modules\lodash\_stackDelete.js" />
-    <Content Include="node_modules\lodash\_stackGet.js" />
-    <Content Include="node_modules\lodash\_stackHas.js" />
-    <Content Include="node_modules\lodash\_stackSet.js" />
-    <Content Include="node_modules\lodash\_strictIndexOf.js" />
-    <Content Include="node_modules\lodash\_strictLastIndexOf.js" />
-    <Content Include="node_modules\lodash\_stringSize.js" />
-    <Content Include="node_modules\lodash\_stringToArray.js" />
-    <Content Include="node_modules\lodash\_stringToPath.js" />
-    <Content Include="node_modules\lodash\_Symbol.js" />
-    <Content Include="node_modules\lodash\_toKey.js" />
-    <Content Include="node_modules\lodash\_toSource.js" />
-    <Content Include="node_modules\lodash\_trimmedEndIndex.js" />
-    <Content Include="node_modules\lodash\_Uint8Array.js" />
-    <Content Include="node_modules\lodash\_unescapeHtmlChar.js" />
-    <Content Include="node_modules\lodash\_unicodeSize.js" />
-    <Content Include="node_modules\lodash\_unicodeToArray.js" />
-    <Content Include="node_modules\lodash\_unicodeWords.js" />
-    <Content Include="node_modules\lodash\_updateWrapDetails.js" />
-    <Content Include="node_modules\lodash\_WeakMap.js" />
-    <Content Include="node_modules\lodash\_wrapperClone.js" />
-    <Content Include="node_modules\lru-cache\index.js" />
-    <Content Include="node_modules\lru-cache\LICENSE" />
-    <Content Include="node_modules\lru-cache\package.json" />
-    <Content Include="node_modules\lru-cache\README.md" />
-    <Content Include="node_modules\minimatch\LICENSE" />
-    <Content Include="node_modules\minimatch\minimatch.js" />
-    <Content Include="node_modules\minimatch\package.json" />
-    <Content Include="node_modules\minimatch\README.md" />
-    <Content Include="node_modules\nice-try\CHANGELOG.md" />
-    <Content Include="node_modules\nice-try\LICENSE" />
-    <Content Include="node_modules\nice-try\package.json" />
-    <Content Include="node_modules\nice-try\README.md" />
-    <Content Include="node_modules\nice-try\src\index.js" />
-    <Content Include="node_modules\normalize-path\index.js" />
-    <Content Include="node_modules\normalize-path\LICENSE" />
-    <Content Include="node_modules\normalize-path\package.json" />
-    <Content Include="node_modules\normalize-path\README.md" />
-    <Content Include="node_modules\npm-run-path\index.js" />
-    <Content Include="node_modules\npm-run-path\license" />
-    <Content Include="node_modules\npm-run-path\package.json" />
-    <Content Include="node_modules\npm-run-path\readme.md" />
-    <Content Include="node_modules\once\LICENSE" />
-    <Content Include="node_modules\once\once.js" />
-    <Content Include="node_modules\once\package.json" />
-    <Content Include="node_modules\once\README.md" />
-    <Content Include="node_modules\p-filter\index.js" />
-    <Content Include="node_modules\p-filter\license" />
-    <Content Include="node_modules\p-filter\package.json" />
-    <Content Include="node_modules\p-filter\readme.md" />
-    <Content Include="node_modules\p-finally\index.js" />
-    <Content Include="node_modules\p-finally\license" />
-    <Content Include="node_modules\p-finally\package.json" />
-    <Content Include="node_modules\p-finally\readme.md" />
-    <Content Include="node_modules\p-map\index.js" />
-    <Content Include="node_modules\p-map\license" />
-    <Content Include="node_modules\p-map\package.json" />
-    <Content Include="node_modules\p-map\readme.md" />
-    <Content Include="node_modules\path-is-absolute\index.js" />
-    <Content Include="node_modules\path-is-absolute\license" />
-    <Content Include="node_modules\path-is-absolute\package.json" />
-    <Content Include="node_modules\path-is-absolute\readme.md" />
-    <Content Include="node_modules\path-key\index.js" />
-    <Content Include="node_modules\path-key\license" />
-    <Content Include="node_modules\path-key\package.json" />
-    <Content Include="node_modules\path-key\readme.md" />
-    <Content Include="node_modules\printj\bin\printj.njs" />
-    <Content Include="node_modules\printj\dist\LICENSE" />
-    <Content Include="node_modules\printj\dist\printj.js" />
-    <Content Include="node_modules\printj\dist\printj.min.js" />
-    <Content Include="node_modules\printj\dist\printj.min.map" />
-    <Content Include="node_modules\printj\LICENSE" />
-    <Content Include="node_modules\printj\package.json" />
-    <Content Include="node_modules\printj\printj.js" />
-    <Content Include="node_modules\printj\README.md" />
-    <Content Include="node_modules\printj\types\tsconfig.json" />
-    <Content Include="node_modules\printj\types\tslint.json" />
-    <Content Include="node_modules\process-nextick-args\index.js" />
-    <Content Include="node_modules\process-nextick-args\license.md" />
-    <Content Include="node_modules\process-nextick-args\package.json" />
-    <Content Include="node_modules\process-nextick-args\readme.md" />
-    <Content Include="node_modules\pump\.travis.yml" />
-    <Content Include="node_modules\pump\index.js" />
-    <Content Include="node_modules\pump\LICENSE" />
-    <Content Include="node_modules\pump\package.json" />
-    <Content Include="node_modules\pump\README.md" />
-    <Content Include="node_modules\pump\test-browser.js" />
-    <Content Include="node_modules\pump\test-node.js" />
-    <Content Include="node_modules\readable-stream\CONTRIBUTING.md" />
-    <Content Include="node_modules\readable-stream\errors-browser.js" />
-    <Content Include="node_modules\readable-stream\errors.js" />
-    <Content Include="node_modules\readable-stream\experimentalWarning.js" />
-    <Content Include="node_modules\readable-stream\GOVERNANCE.md" />
-    <Content Include="node_modules\readable-stream\lib\internal\streams\async_iterator.js" />
-    <Content Include="node_modules\readable-stream\lib\internal\streams\buffer_list.js" />
-    <Content Include="node_modules\readable-stream\lib\internal\streams\destroy.js" />
-    <Content Include="node_modules\readable-stream\lib\internal\streams\end-of-stream.js" />
-    <Content Include="node_modules\readable-stream\lib\internal\streams\from-browser.js" />
-    <Content Include="node_modules\readable-stream\lib\internal\streams\from.js" />
-    <Content Include="node_modules\readable-stream\lib\internal\streams\pipeline.js" />
-    <Content Include="node_modules\readable-stream\lib\internal\streams\state.js" />
-    <Content Include="node_modules\readable-stream\lib\internal\streams\stream-browser.js" />
-    <Content Include="node_modules\readable-stream\lib\internal\streams\stream.js" />
-    <Content Include="node_modules\readable-stream\lib\_stream_duplex.js" />
-    <Content Include="node_modules\readable-stream\lib\_stream_passthrough.js" />
-    <Content Include="node_modules\readable-stream\lib\_stream_readable.js" />
-    <Content Include="node_modules\readable-stream\lib\_stream_transform.js" />
-    <Content Include="node_modules\readable-stream\lib\_stream_writable.js" />
-    <Content Include="node_modules\readable-stream\LICENSE" />
-    <Content Include="node_modules\readable-stream\package.json" />
-    <Content Include="node_modules\readable-stream\readable-browser.js" />
-    <Content Include="node_modules\readable-stream\readable.js" />
-    <Content Include="node_modules\readable-stream\README.md" />
-    <Content Include="node_modules\readdir-glob\index.js" />
-    <Content Include="node_modules\readdir-glob\LICENSE" />
-    <Content Include="node_modules\readdir-glob\package.json" />
-    <Content Include="node_modules\readdir-glob\README.md" />
-    <Content Include="node_modules\rimraf\bin.js" />
-    <Content Include="node_modules\rimraf\CHANGELOG.md" />
-    <Content Include="node_modules\rimraf\LICENSE" />
-    <Content Include="node_modules\rimraf\package.json" />
-    <Content Include="node_modules\rimraf\README.md" />
-    <Content Include="node_modules\rimraf\rimraf.js" />
-    <Content Include="node_modules\safe-buffer\index.js" />
-    <Content Include="node_modules\safe-buffer\LICENSE" />
-    <Content Include="node_modules\safe-buffer\package.json" />
-    <Content Include="node_modules\safe-buffer\README.md" />
-    <Content Include="node_modules\semver\bin\semver.js" />
-    <Content Include="node_modules\semver\CHANGELOG.md" />
-    <Content Include="node_modules\semver\classes\comparator.js" />
-    <Content Include="node_modules\semver\classes\index.js" />
-    <Content Include="node_modules\semver\classes\range.js" />
-    <Content Include="node_modules\semver\classes\semver.js" />
-    <Content Include="node_modules\semver\functions\clean.js" />
-    <Content Include="node_modules\semver\functions\cmp.js" />
-    <Content Include="node_modules\semver\functions\coerce.js" />
-    <Content Include="node_modules\semver\functions\compare-build.js" />
-    <Content Include="node_modules\semver\functions\compare-loose.js" />
-    <Content Include="node_modules\semver\functions\compare.js" />
-    <Content Include="node_modules\semver\functions\diff.js" />
-    <Content Include="node_modules\semver\functions\eq.js" />
-    <Content Include="node_modules\semver\functions\gt.js" />
-    <Content Include="node_modules\semver\functions\gte.js" />
-    <Content Include="node_modules\semver\functions\inc.js" />
-    <Content Include="node_modules\semver\functions\lt.js" />
-    <Content Include="node_modules\semver\functions\lte.js" />
-    <Content Include="node_modules\semver\functions\major.js" />
-    <Content Include="node_modules\semver\functions\minor.js" />
-    <Content Include="node_modules\semver\functions\neq.js" />
-    <Content Include="node_modules\semver\functions\parse.js" />
-    <Content Include="node_modules\semver\functions\patch.js" />
-    <Content Include="node_modules\semver\functions\prerelease.js" />
-    <Content Include="node_modules\semver\functions\rcompare.js" />
-    <Content Include="node_modules\semver\functions\rsort.js" />
-    <Content Include="node_modules\semver\functions\satisfies.js" />
-    <Content Include="node_modules\semver\functions\sort.js" />
-    <Content Include="node_modules\semver\functions\valid.js" />
-    <Content Include="node_modules\semver\index.js" />
-    <Content Include="node_modules\semver\internal\constants.js" />
-    <Content Include="node_modules\semver\internal\debug.js" />
-    <Content Include="node_modules\semver\internal\identifiers.js" />
-    <Content Include="node_modules\semver\internal\parse-options.js" />
-    <Content Include="node_modules\semver\internal\re.js" />
-    <Content Include="node_modules\semver\LICENSE" />
-    <Content Include="node_modules\semver\package.json" />
-    <Content Include="node_modules\semver\preload.js" />
-    <Content Include="node_modules\semver\range.bnf" />
-    <Content Include="node_modules\semver\ranges\gtr.js" />
-    <Content Include="node_modules\semver\ranges\intersects.js" />
-    <Content Include="node_modules\semver\ranges\ltr.js" />
-    <Content Include="node_modules\semver\ranges\max-satisfying.js" />
-    <Content Include="node_modules\semver\ranges\min-satisfying.js" />
-    <Content Include="node_modules\semver\ranges\min-version.js" />
-    <Content Include="node_modules\semver\ranges\outside.js" />
-    <Content Include="node_modules\semver\ranges\simplify.js" />
-    <Content Include="node_modules\semver\ranges\subset.js" />
-    <Content Include="node_modules\semver\ranges\to-comparators.js" />
-    <Content Include="node_modules\semver\ranges\valid.js" />
-    <Content Include="node_modules\semver\README.md" />
-    <Content Include="node_modules\shebang-command\index.js" />
-    <Content Include="node_modules\shebang-command\license" />
-    <Content Include="node_modules\shebang-command\package.json" />
-    <Content Include="node_modules\shebang-command\readme.md" />
-    <Content Include="node_modules\shebang-regex\index.js" />
-    <Content Include="node_modules\shebang-regex\license" />
-    <Content Include="node_modules\shebang-regex\package.json" />
-    <Content Include="node_modules\shebang-regex\readme.md" />
-    <Content Include="node_modules\signal-exit\CHANGELOG.md" />
-    <Content Include="node_modules\signal-exit\index.js" />
-    <Content Include="node_modules\signal-exit\LICENSE.txt" />
-    <Content Include="node_modules\signal-exit\package.json" />
-    <Content Include="node_modules\signal-exit\README.md" />
-    <Content Include="node_modules\signal-exit\signals.js" />
-    <Content Include="node_modules\string_decoder\lib\string_decoder.js" />
-    <Content Include="node_modules\string_decoder\LICENSE" />
-    <Content Include="node_modules\string_decoder\package.json" />
-    <Content Include="node_modules\string_decoder\README.md" />
-    <Content Include="node_modules\strip-eof\index.js" />
-    <Content Include="node_modules\strip-eof\license" />
-    <Content Include="node_modules\strip-eof\package.json" />
-    <Content Include="node_modules\strip-eof\readme.md" />
-    <Content Include="node_modules\tar-stream\extract.js" />
-    <Content Include="node_modules\tar-stream\headers.js" />
-    <Content Include="node_modules\tar-stream\index.js" />
-    <Content Include="node_modules\tar-stream\LICENSE" />
-    <Content Include="node_modules\tar-stream\pack.js" />
-    <Content Include="node_modules\tar-stream\package.json" />
-    <Content Include="node_modules\tar-stream\README.md" />
-    <Content Include="node_modules\tar-stream\sandbox.js" />
-    <Content Include="node_modules\tslib\CopyrightNotice.txt" />
-    <Content Include="node_modules\tslib\LICENSE.txt" />
-    <Content Include="node_modules\tslib\modules\index.js" />
-    <Content Include="node_modules\tslib\modules\package.json" />
-    <Content Include="node_modules\tslib\package.json" />
-    <Content Include="node_modules\tslib\README.md" />
-    <Content Include="node_modules\tslib\test\validateModuleExportsMatchCommonJS\index.js" />
-    <Content Include="node_modules\tslib\test\validateModuleExportsMatchCommonJS\package.json" />
-    <Content Include="node_modules\tslib\tslib.es6.html" />
-    <Content Include="node_modules\tslib\tslib.es6.js" />
-    <Content Include="node_modules\tslib\tslib.html" />
-    <Content Include="node_modules\tslib\tslib.js" />
-    <Content Include="node_modules\universalify\index.js" />
-    <Content Include="node_modules\universalify\LICENSE" />
-    <Content Include="node_modules\universalify\package.json" />
-    <Content Include="node_modules\universalify\README.md" />
-    <Content Include="node_modules\util-deprecate\browser.js" />
-    <Content Include="node_modules\util-deprecate\History.md" />
-    <Content Include="node_modules\util-deprecate\LICENSE" />
-    <Content Include="node_modules\util-deprecate\node.js" />
-    <Content Include="node_modules\util-deprecate\package.json" />
-    <Content Include="node_modules\util-deprecate\README.md" />
-    <Content Include="node_modules\vdf-extra\lib\extra-values.js" />
-    <Content Include="node_modules\vdf-extra\lib\index.js" />
-    <Content Include="node_modules\vdf-extra\lib\parse.js" />
-    <Content Include="node_modules\vdf-extra\lib\stringify.js" />
-    <Content Include="node_modules\vdf-extra\LICENSE" />
-    <Content Include="node_modules\vdf-extra\package.json" />
-    <Content Include="node_modules\vdf-extra\README.md" />
-    <Content Include="node_modules\which\bin\which" />
-    <Content Include="node_modules\which\CHANGELOG.md" />
-    <Content Include="node_modules\which\LICENSE" />
-    <Content Include="node_modules\which\package.json" />
-    <Content Include="node_modules\which\README.md" />
-    <Content Include="node_modules\which\which.js" />
-    <Content Include="node_modules\wrappy\LICENSE" />
-    <Content Include="node_modules\wrappy\package.json" />
-    <Content Include="node_modules\wrappy\README.md" />
-    <Content Include="node_modules\wrappy\wrappy.js" />
-    <Content Include="node_modules\yallist\iterator.js" />
-    <Content Include="node_modules\yallist\LICENSE" />
-    <Content Include="node_modules\yallist\package.json" />
-    <Content Include="node_modules\yallist\README.md" />
-    <Content Include="node_modules\yallist\yallist.js" />
-    <Content Include="node_modules\yargs-parser\browser.js" />
-    <Content Include="node_modules\yargs-parser\build\index.cjs" />
-    <Content Include="node_modules\yargs-parser\build\lib\index.js" />
-    <Content Include="node_modules\yargs-parser\build\lib\string-utils.js" />
-    <Content Include="node_modules\yargs-parser\build\lib\tokenize-arg-string.js" />
-    <Content Include="node_modules\yargs-parser\build\lib\yargs-parser-types.js" />
-    <Content Include="node_modules\yargs-parser\build\lib\yargs-parser.js" />
-    <Content Include="node_modules\yargs-parser\CHANGELOG.md" />
-    <Content Include="node_modules\yargs-parser\LICENSE.txt" />
-    <Content Include="node_modules\yargs-parser\package.json" />
-    <Content Include="node_modules\yargs-parser\README.md" />
-    <Content Include="node_modules\zip-stream\CHANGELOG.md" />
-    <Content Include="node_modules\zip-stream\index.js" />
-    <Content Include="node_modules\zip-stream\LICENSE" />
-    <Content Include="node_modules\zip-stream\package.json" />
-    <Content Include="node_modules\zip-stream\README.md" />
-    <Content Include="package-lock.json" />
-    <Content Include="package.json" />
-  </ItemGroup>
-  <ItemGroup>
-    <TypeScriptCompile Include="node_modules\archiver-utils\node_modules\safe-buffer\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\base64-js\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\buffer\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\crc-32\types\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\find-steam-app\lib\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\find-steam-app\lib\libraries.d.ts" />
-    <TypeScriptCompile Include="node_modules\find-steam-app\lib\manifest.d.ts" />
-    <TypeScriptCompile Include="node_modules\find-steam-app\lib\steam.d.ts" />
-    <TypeScriptCompile Include="node_modules\ieee754\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\lazystream\node_modules\safe-buffer\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\p-filter\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\p-map\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\printj\types\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\safe-buffer\index.d.ts" />
-    <TypeScriptCompile Include="node_modules\tslib\tslib.d.ts" />
-    <TypeScriptCompile Include="node_modules\vdf-extra\lib\index.d.ts" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
@@ -2056,4 +250,11 @@
     <Target Name="AfterBuild">
     </Target>
     -->
+    <PropertyGroup>
+        <PostBuildEvent>
+            if not exist "D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\Mods\MusicTimestamp" mkdir "D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\Mods\MusicTimestamp"
+            copy ..\..\Info.json "D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\Mods\MusicTimestamp\Info.json"
+            copy "$(TargetPath)" "D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\Mods\MusicTimestamp\MusicTimestamp.dll"
+        </PostBuildEvent>
+    </PropertyGroup>
 </Project>

@@ -1,7 +1,6 @@
-using System;
 using HarmonyLib;
+using System;
 using UnityEngine;
-
 namespace MusicTimestamp.MainPatch {
     public class Text : MonoBehaviour {
         public static string Content = "";
@@ -25,7 +24,7 @@ namespace MusicTimestamp.MainPatch {
         }
     }
 
-    [HarmonyPatch(typeof(scrController), "PlayerControl_Update")]
+    [HarmonyPatch(typeof(scrController), "Update")]
     
     internal static class ChangeText {
         private static void Prefix(scrController __instance) {

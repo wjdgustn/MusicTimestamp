@@ -2,8 +2,8 @@
   "Id": "MusicTimestamp",
   "DisplayName": "MusicTimestamp",
   "Author": "HYONSU",
-  "Version": "0.0.10",
+  "Version": "0.0.11",
   "AssemblyName": "MusicTimestamp.dll",
   "EntryMethod": "MusicTimestamp.Main.Load",
-  "Repository": ""
+  "Repository": "https://bot.adofai.gg/api/mods/MusicTimestamp/Repository.json"
 }
