@@ -1,4 +1,5 @@
 using HarmonyLib;
+using MonsterLove.StateMachine;
 using System;
 using UnityEngine;
 namespace MusicTimestamp.MainPatch {
@@ -24,7 +25,7 @@ namespace MusicTimestamp.MainPatch {
         }
     }
 
-    [HarmonyPatch(typeof(scrController), "Update")]
+    [HarmonyPatch(typeof(StateEngine), "Update")]
     
     internal static class ChangeText {
         private static void Prefix(scrController __instance) {
